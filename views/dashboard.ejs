@@ -1,0 +1,182 @@
+<%- include('partials/header', { title: 'Supervisor Dashboard' }) %>
+
+<h1 class="mb-4">Supervisor Dashboard</h1>
+
+<form action="/process-input" method="POST">
+
+  <!-- 1. Train Information -->
+  <fieldset class="mb-3 border p-3 rounded">
+    <legend class="float-none w-auto px-2">Train Information</legend>
+    <div class="row mb-2">
+      <div class="col-md-6">
+        <label for="trainId" class="form-label">Train ID</label>
+        <select class="form-select" name="trainId" id="trainId">
+          <% for(let i=1;i<=25;i++){ %>
+            <option value="<%= i %>">Train <%= i %></option>
+          <% } %>
+        </select>
+      </div>
+      <div class="col-md-6">
+        <label for="position" class="form-label">Depot Position</label>
+        <input type="text" class="form-control" id="position" name="position" placeholder="Enter bay/position">
+      </div>
+    </div>
+  </fieldset>
+
+  <!-- 2. Fitness & Clearance -->
+  <fieldset class="mb-3 border p-3 rounded">
+    <legend class="float-none w-auto px-2">Fitness & Clearance</legend>
+    <div class="form-check">
+      <input class="form-check-input" type="radio" name="rollingStock" value="valid" checked>
+      <label class="form-check-label">Rolling Stock ✅ Valid</label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="radio" name="rollingStock" value="expired">
+      <label class="form-check-label">Rolling Stock ❌ Expired</label>
+    </div>
+
+    <div class="form-check mt-2">
+      <input class="form-check-input" type="radio" name="signalling" value="valid" checked>
+      <label class="form-check-label">Signalling ✅ Valid</label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="radio" name="signalling" value="expired">
+      <label class="form-check-label">Signalling ❌ Expired</label>
+    </div>
+
+    <div class="form-check mt-2">
+      <input class="form-check-input" type="radio" name="telecom" value="valid" checked>
+      <label class="form-check-label">Telecom ✅ Valid</label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="radio" name="telecom" value="expired">
+      <label class="form-check-label">Telecom ❌ Expired</label>
+    </div>
+  </fieldset>
+
+  <!-- 3. Maintenance -->
+  <fieldset class="mb-3 border p-3 rounded">
+    <legend class="float-none w-auto px-2">Maintenance (Job-Card)</legend>
+    <div class="mb-2">
+      <label for="openWorkOrders" class="form-label">Open Work Orders</label>
+      <input type="number" class="form-control" id="openWorkOrders" name="openWorkOrders" min="0">
+    </div>
+    <div class="mb-2">
+      <label for="jobType" class="form-label">Type of Job</label>
+      <select class="form-select" name="jobType" id="jobType">
+        <option value="minor">Minor</option>
+        <option value="major">Major</option>
+        <option value="safety">Safety</option>
+      </select>
+    </div>
+    <div class="mb-2">
+      <label for="completionTime" class="form-label">Estimated Completion (hrs/days)</label>
+      <input type="text" class="form-control" id="completionTime" name="completionTime">
+    </div>
+    <div class="mb-2">
+      <label for="supervisorNote" class="form-label">Supervisor Note</label>
+      <textarea class="form-control" name="supervisorNote" id="supervisorNote" rows="2"></textarea>
+    </div>
+  </fieldset>
+
+  <!-- 4. Branding / Commercial Data -->
+  <fieldset class="mb-3 border p-3 rounded">
+    <legend class="float-none w-auto px-2">Branding / Commercial Data</legend>
+    <div class="row mb-2">
+      <div class="col-md-4">
+        <label for="brandingId" class="form-label">Branding Campaign ID</label>
+        <select class="form-select" name="brandingId" id="brandingId">
+          <option value="C101">C101</option>
+          <option value="C102">C102</option>
+        </select>
+      </div>
+      <div class="col-md-4">
+        <label for="contractHours" class="form-label">Contractual Hours Left</label>
+        <input type="number" class="form-control" id="contractHours" name="contractHours">
+      </div>
+      <div class="col-md-4">
+        <label for="priority" class="form-label">Priority</label>
+        <select class="form-select" name="priority" id="priority">
+          <option value="High">High</option>
+          <option value="Medium">Medium</option>
+          <option value="Low">Low</option>
+        </select>
+      </div>
+    </div>
+  </fieldset>
+
+  <!-- 5. Mileage / Usage -->
+  <fieldset class="mb-3 border p-3 rounded">
+    <legend class="float-none w-auto px-2">Mileage / Usage</legend>
+    <div class="row mb-2">
+      <div class="col-md-4">
+        <label for="totalKm" class="form-label">Total KM</label>
+        <input type="number" class="form-control" id="totalKm" name="totalKm" readonly value="0">
+      </div>
+      <div class="col-md-4">
+        <label for="kmSinceMaintenance" class="form-label">KM Since Last Maintenance</label>
+        <input type="number" class="form-control" id="kmSinceMaintenance" name="kmSinceMaintenance" readonly value="0">
+      </div>
+      <div class="col-md-4">
+        <label for="dailyAvgKm" class="form-label">Daily Average KM</label>
+        <input type="number" class="form-control" id="dailyAvgKm" name="dailyAvgKm" readonly value="0">
+      </div>
+    </div>
+    <div class="mb-2">
+      <label for="supervisorKmAdjust" class="form-label">Supervisor Adjustment</label>
+      <input type="number" class="form-control" id="supervisorKmAdjust" name="supervisorKmAdjust">
+    </div>
+  </fieldset>
+
+  <!-- 6. Cleaning & Detailing -->
+  <fieldset class="mb-3 border p-3 rounded">
+    <legend class="float-none w-auto px-2">Cleaning & Detailing</legend>
+    <div class="row mb-2">
+      <div class="col-md-4">
+        <label for="lastBasicClean" class="form-label">Last Basic Cleaning</label>
+        <input type="text" class="form-control" name="lastBasicClean" placeholder="YYYY-MM-DD">
+      </div>
+      <div class="col-md-4">
+        <label for="lastDeepClean" class="form-label">Last Deep Cleaning</label>
+        <input type="text" class="form-control" name="lastDeepClean" placeholder="YYYY-MM-DD">
+      </div>
+      <div class="col-md-4">
+        <label for="cleaningSlot" class="form-label">Cleaning Slot Tonight</label>
+        <select class="form-select" name="cleaningSlot">
+          <option value="Slot 1">Slot 1</option>
+          <option value="Slot 2">Slot 2</option>
+        </select>
+      </div>
+    </div>
+    <div class="mb-2">
+      <label for="manpower" class="form-label">Available Workers</label>
+      <input type="number" class="form-control" id="manpower" name="manpower" min="0">
+    </div>
+  </fieldset>
+
+  <!-- 7. Manual Overrides & Notes -->
+  <fieldset class="mb-3 border p-3 rounded">
+    <legend class="float-none w-auto px-2">Manual Overrides & Notes</legend>
+    <div class="form-check mb-2">
+      <input class="form-check-input" type="checkbox" name="forceService" id="forceService">
+      <label class="form-check-label" for="forceService">Force Train Into Service</label>
+    </div>
+    <div class="form-check mb-2">
+      <input class="form-check-input" type="checkbox" name="holdDepot" id="holdDepot">
+      <label class="form-check-label" for="holdDepot">Hold Train in Depot</label>
+    </div>
+    <div class="mb-2">
+      <label for="notes" class="form-label">Notes / Comments</label>
+      <textarea class="form-control" name="notes" id="notes" rows="2"></textarea>
+    </div>
+  </fieldset>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+<hr>
+<div id="output">
+  <!-- Ranked train list / conflict alerts will appear here -->
+</div>
+
+<%- include('partials/footer') %>
