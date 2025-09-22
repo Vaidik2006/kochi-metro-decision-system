@@ -1,1069 +1,3057 @@
 [
   {
-    "doc_id": "DOC0390",
-    "language": "English",
-    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
+    "doc_id": "DOC0662",
+    "language": "Malayalam",
+    "text": "ജോബ് കാർഡ് നമ്പർ: JC-782, ട്രെയിൻ: KMRT-19, ജോലി: എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ, നില: മുടങ്ങിയ, തീയതി: 16 ജൂലൈ 2025",
+    "label": "Job Card",
+    "summary": "KMRT-14 ന്‍റെ ജോബ് കാർഡ് മുടങ്ങിയ (എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ).",
     "entities": {
-      "notice_date": "10 Dec 2025",
-      "notice_type": "Holiday/Schedule"
+      "job_card_id": "JC-357",
+      "train_id": "KMRT-8",
+      "task_description": "എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ",
+      "status": "മുടങ്ങിയ",
+      "completion_date": "19 Sep 2025"
     }
   },
   {
-    "doc_id": "DOC0197",
-    "language": "Mixed",
-    "text": "Employee Arjun has been assigned ID EMP202 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
+    "doc_id": "DOC0516",
+    "language": "Malayalam",
+    "text": "Invoice No: 3620, Vendor: Bombardier Transportation, GST: 2192365995213, Total: ₹110,000, Due: 3 Oct 2025, Item: Pantograph Assembly",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Siemens Ltd for ₹110,000.",
     "entities": {
-      "employee_id": "EMP202"
+      "invoice_number": "2947",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "2015221353240",
+      "total_amount": "₹110,000",
+      "due_date": "22 Feb 2025",
+      "item": "AC Unit"
     }
   },
   {
-    "doc_id": "DOC0308",
-    "language": "English",
-    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
+    "doc_id": "DOC0201",
+    "language": "Malayalam",
+    "text": "സേഫ്റ്റി സർക്കുലർ നമ്പർ: SC-46, തീയതി: 26 Jul 2025, എല്ലാ ജീവനക്കാരും Emergency Response-ൽ പങ്കെടുക്കണം. അനുസരിക്കാത്തവർക്ക് നടപടി എടുക്കും.",
+    "label": "Safety Circular",
+    "summary": "Emergency Response circular dated 26 Jul 2025, mandatory for all staff.",
     "entities": {
-      "notice_date": "10 Dec 2025",
-      "notice_type": "Holiday/Schedule"
+      "circular_number": "SC-46",
+      "issue_date": "26 Jul 2025",
+      "subject": "Emergency Response",
+      "validity": "Mandatory"
     }
   },
   {
-    "doc_id": "DOC0030",
+    "doc_id": "DOC0062",
     "language": "English",
-    "text": "Payment invoice 6328 issued to XYZ Corp, amount due ₹1,20,000, deadline 01 Nov 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary with vendor and total amount.",
+    "text": "Safety Circular No: SC-112, Date: 25 Jan 2025, All employees must participate in Fire Drill. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Fire Drill circular dated 25 Jan 2025, mandatory for all staff.",
     "entities": {
-      "invoice_number": "6328",
-      "total_amount": "₹1,20,000,"
+      "circular_number": "SC-112",
+      "issue_date": "25 Jan 2025",
+      "subject": "Fire Drill",
+      "validity": "Mandatory"
     }
   },
   {
-    "doc_id": "DOC0140",
+    "doc_id": "DOC0890",
     "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 25 Sept 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
+    "text": "Job Card No: JC-393, Train: KMRT-20, Task: Wheel Alignment, Status: Completed, Date: 26 Jul 2025",
+    "label": "Job Card",
+    "summary": "KMRT-20 job card Completed (Wheel Alignment).",
     "entities": {
-      "deadline": "25 Sept 2025"
+      "job_card_id": "JC-122",
+      "train_id": "KMRT-15",
+      "task_description": "Wheel Alignment",
+      "status": "Completed",
+      "completion_date": "6 Aug 2025"
     }
   },
   {
-    "doc_id": "DOC0301",
-    "language": "English",
-    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
+    "doc_id": "DOC0824",
+    "language": "Malayalam",
+    "text": "ജോബ് കാർഡ് നമ്പർ: JC-886, ട്രെയിൻ: KMRT-6, ജോലി: എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ, നില: Pending, തീയതി: 3 മേയ് 2025",
+    "label": "Job Card",
+    "summary": "KMRT-8 ന്‍റെ ജോബ് കാർഡ് Pending (എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ).",
     "entities": {
-      "notice_date": "10 Dec 2025",
-      "notice_type": "Holiday/Schedule"
+      "job_card_id": "JC-980",
+      "train_id": "KMRT-7",
+      "task_description": "എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ",
+      "status": "Pending",
+      "completion_date": "28 Jun 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0258",
+    "language": "English",
+    "text": "Invoice No: 4924, Vendor: Bombardier Transportation, GST: 4540113422805, Total: ₹10,000, Due: 17 Jan 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹10,000.",
+    "entities": {
+      "invoice_number": "9127",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "3699016545405",
+      "total_amount": "₹10,000",
+      "due_date": "2 May 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0284",
+    "language": "English",
+    "text": "Job Card No: JC-896, Train: KMRT-17, Task: Brake Inspection, Status: പൂർത്തിയായി, Date: 9 Nov 2025",
+    "label": "Job Card",
+    "summary": "KMRT-11 job card പൂർത്തിയായി (Brake Inspection).",
+    "entities": {
+      "job_card_id": "JC-362",
+      "train_id": "KMRT-6",
+      "task_description": "Brake Inspection",
+      "status": "പൂർത്തിയായി",
+      "completion_date": "10 Mar 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0277",
+    "language": "English",
+    "text": "Invoice No: 1360, Vendor: Bombardier Transportation, GST: 9784613022237, Total: ₹150,000, Due: 19 Oct 2025, Item: Brake Pads",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹150,000.",
+    "entities": {
+      "invoice_number": "8102",
+      "vendor": "Siemens Ltd",
+      "gst_number": "1485635653487",
+      "total_amount": "₹150,000",
+      "due_date": "14 Aug 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0488",
+    "language": "Malayalam",
+    "text": "സേഫ്റ്റി സർക്കുലർ നമ്പർ: SC-100, തീയതി: 24 Aug 2025, എല്ലാ ജീവനക്കാരും Emergency Response-ൽ പങ്കെടുക്കണം. അനുസരിക്കാത്തവർക്ക് നടപടി എടുക്കും.",
+    "label": "Safety Circular",
+    "summary": "Emergency Response circular dated 24 Aug 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-100",
+      "issue_date": "24 Aug 2025",
+      "subject": "Emergency Response",
+      "validity": "Mandatory"
     }
   },
   {
     "doc_id": "DOC0076",
     "language": "English",
-    "text": "Invoice No: 1476, Vendor: ABC Pvt Ltd, Total: ₹8,750, Due: 15 Oct 2025",
+    "text": "Job Card No: JC-991, Train: KMRT-18, Task: Wheel Alignment, Status: മുടങ്ങിയ, Date: 14 Dec 2025",
+    "label": "Job Card",
+    "summary": "KMRT-5 job card മുടങ്ങിയ (Wheel Alignment).",
+    "entities": {
+      "job_card_id": "JC-793",
+      "train_id": "KMRT-15",
+      "task_description": "Wheel Alignment",
+      "status": "മുടങ്ങിയ",
+      "completion_date": "2 Dec 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0091",
+    "language": "Malayalam",
+    "text": "Invoice No: 8322, Vendor: Bombardier Transportation, GST: 9920702799589, Total: ₹160,000, Due: 2 Nov 2025, Item: Brake Pads",
     "label": "Invoice",
-    "summary": "Invoice summary: payment due 15 Oct 2025.",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹160,000.",
     "entities": {
-      "invoice_number": "1476",
-      "vendor": "ABC Pvt Ltd",
-      "total_amount": "₹8,750,",
-      "due_date": "15 Oct 2025"
+      "invoice_number": "4635",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "8736389764233",
+      "total_amount": "₹160,000",
+      "due_date": "13 Oct 2025",
+      "item": "AC Unit"
     }
   },
   {
-    "doc_id": "DOC0246",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0218",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0271",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0124",
+    "doc_id": "DOC0267",
     "language": "English",
-    "text": "Employee Arjun has been assigned ID EMP101 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
+    "text": "Invoice No: 9095, Vendor: Siemens Ltd, GST: 6641021359283, Total: ₹180,000, Due: 13 Oct 2025, Item: Brake Pads",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹180,000.",
     "entities": {
-      "employee_id": "EMP101"
+      "invoice_number": "3814",
+      "vendor": "Siemens Ltd",
+      "gst_number": "1979526690935",
+      "total_amount": "₹180,000",
+      "due_date": "16 Apr 2025",
+      "item": "Brake Pads"
     }
   },
   {
-    "doc_id": "DOC0095",
+    "doc_id": "DOC0265",
     "language": "English",
-    "text": "Invoice No: 3087, Vendor: Tech Solutions, Total: ₹45,000, Due: 15 Oct 2025",
+    "text": "Safety Circular No: SC-122, Date: 17 Jun 2025, All employees must participate in Emergency Response. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Emergency Response circular dated 17 Jun 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-122",
+      "issue_date": "17 Jun 2025",
+      "subject": "Emergency Response",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0403",
+    "language": "English",
+    "text": "Invoice No: 1633, Vendor: Siemens Ltd, GST: 1844828802075, Total: ₹190,000, Due: 3 Dec 2025, Item: Pantograph Assembly",
     "label": "Invoice",
-    "summary": "Invoice summary: payment due 15 Oct 2025.",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹190,000.",
     "entities": {
-      "invoice_number": "3087",
-      "vendor": "Tech Solutions",
-      "total_amount": "₹45,000,",
-      "due_date": "15 Oct 2025"
+      "invoice_number": "3529",
+      "vendor": "Siemens Ltd",
+      "gst_number": "6297245958603",
+      "total_amount": "₹190,000",
+      "due_date": "18 Apr 2025",
+      "item": "Brake Pads"
     }
   },
   {
-    "doc_id": "DOC0311",
-    "language": "English",
-    "text": "Notice: Office will remain closed on 01 Nov 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "01 Nov 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0480",
-    "language": "English",
-    "text": "Dear Meera, We acknowledge the receipt of your application dated 01 Nov 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Meera",
-      "reference_date": "01 Nov 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0173",
-    "language": "English",
-    "text": "Employee Arjun has been assigned ID EMP101 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP101"
-    }
-  },
-  {
-    "doc_id": "DOC0195",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 10 Dec 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "10 Dec 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0381",
+    "doc_id": "DOC0576",
     "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 10 Dec 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
+    "text": "Invoice No: 5443, Vendor: Bombardier Transportation, GST: 7531163786795, Total: ₹120,000, Due: 26 Feb 2025, Item: Pantograph Assembly",
+    "label": "Asset Register",
+    "summary": "Invoice from Bombardier Transportation for ₹120,000.",
     "entities": {
-      "notice_type": "Holiday/Schedule"
+      "invoice_number": "6397",
+      "vendor": "Siemens Ltd",
+      "gst_number": "4444675208127",
+      "total_amount": "₹120,000",
+      "due_date": "25 Dec 2025",
+      "item": "Wheel Set"
     }
   },
   {
-    "doc_id": "DOC0364",
+    "doc_id": "DOC0626",
     "language": "English",
-    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
+    "text": "Invoice No: 4446, Vendor: Siemens Ltd, GST: 4442354482861, Total: ₹100,000, Due: 21 Aug 2025, Item: AC Unit",
+    "label": "Asset Register",
+    "summary": "Invoice from Bombardier Transportation for ₹100,000.",
     "entities": {
-      "notice_date": "10 Dec 2025",
-      "notice_type": "Holiday/Schedule"
+      "invoice_number": "8462",
+      "vendor": "Siemens Ltd",
+      "gst_number": "3795200703564",
+      "total_amount": "₹100,000",
+      "due_date": "5 Oct 2025",
+      "item": "AC Unit"
     }
   },
   {
-    "doc_id": "DOC0335",
-    "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 01 Nov 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0443",
+    "doc_id": "DOC0683",
     "language": "English",
-    "text": "Dear Arjun, We acknowledge the receipt of your application dated 15 Oct 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
+    "text": "Job Card No: JC-589, Train: KMRT-8, Task: Motor Replacement, Status: Completed, Date: 8 May 2025",
+    "label": "Job Card",
+    "summary": "KMRT-17 job card Completed (Motor Replacement).",
     "entities": {
-      "recipient": "Arjun",
-      "reference_date": "15 Oct 2025"
+      "job_card_id": "JC-817",
+      "train_id": "KMRT-7",
+      "task_description": "Motor Replacement",
+      "status": "Completed",
+      "completion_date": "17 Jun 2025"
     }
   },
   {
-    "doc_id": "DOC0127",
+    "doc_id": "DOC0325",
     "language": "English",
-    "text": "Employee Arjun has been assigned ID EMP202 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
+    "text": "Invoice No: 8446, Vendor: Alstom Transport India Pvt Ltd, GST: 4835360729195, Total: ₹170,000, Due: 17 Aug 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹170,000.",
     "entities": {
-      "employee_id": "EMP202"
+      "invoice_number": "6147",
+      "vendor": "Siemens Ltd",
+      "gst_number": "5813016961082",
+      "total_amount": "₹170,000",
+      "due_date": "21 Oct 2025",
+      "item": "Brake Pads"
     }
   },
   {
-    "doc_id": "DOC0221",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0005",
+    "doc_id": "DOC0416",
     "language": "English",
-    "text": "Payment invoice 4546 issued to XYZ Corp, amount due ₹45,000, deadline 25 Sept 2025",
+    "text": "Invoice No: 6882, Vendor: Siemens Ltd, GST: 3554564655551, Total: ₹120,000, Due: 26 Jul 2025, Item: Wheel Set",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Siemens Ltd for ₹120,000.",
+    "entities": {
+      "invoice_number": "2158",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "4289762647521",
+      "total_amount": "₹120,000",
+      "due_date": "10 Aug 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0334",
+    "language": "English",
+    "text": "Invoice No: 6967, Vendor: Alstom Transport India Pvt Ltd, GST: 5061203532013, Total: ₹30,000, Due: 22 Aug 2025, Item: Brake Pads",
     "label": "Invoice",
-    "summary": "Invoice summary with vendor and total amount.",
+    "summary": "Invoice from Bombardier Transportation for ₹30,000.",
     "entities": {
-      "invoice_number": "4546",
-      "total_amount": "₹45,000,"
+      "invoice_number": "1882",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "7763888161037",
+      "total_amount": "₹30,000",
+      "due_date": "20 May 2025",
+      "item": "Brake Pads"
     }
   },
   {
-    "doc_id": "DOC0236",
+    "doc_id": "DOC0755",
     "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
+    "text": "Invoice No: 5228, Vendor: Alstom Transport India Pvt Ltd, GST: 2130069961637, Total: ₹160,000, Due: 26 Aug 2025, Item: AC Unit",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Siemens Ltd for ₹160,000.",
     "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
+      "invoice_number": "3791",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "8706231322902",
+      "total_amount": "₹160,000",
+      "due_date": "14 Jun 2025",
+      "item": "Pantograph Assembly"
     }
   },
   {
-    "doc_id": "DOC0207",
+    "doc_id": "DOC0048",
     "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
+    "text": "Safety Circular No: SC-67, Date: 26 Nov 2025, All employees must participate in Emergency Response. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Emergency Response circular dated 26 Nov 2025, mandatory for all staff.",
     "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0126",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 01 Nov 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "01 Nov 2025"
+      "circular_number": "SC-67",
+      "issue_date": "26 Nov 2025",
+      "subject": "Emergency Response",
+      "validity": "Mandatory"
     }
   },
   {
     "doc_id": "DOC0340",
+    "language": "Bilingual",
+    "text": "Invoice No: 3534, Vendor: Bombardier Transportation, GST: 8341901245815, Total: ₹40,000, Due: 23 Mar 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹40,000.",
+    "entities": {
+      "invoice_number": "4776",
+      "vendor": "Siemens Ltd",
+      "gst_number": "9361663113715",
+      "total_amount": "₹40,000",
+      "due_date": "26 Sep 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0815",
     "language": "English",
-    "text": "Notice: Office will remain closed on 01 Nov 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "01 Nov 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0307",
-    "language": "English",
-    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "10 Dec 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0445",
-    "language": "Mixed",
-    "text": "Dear Anita, We acknowledge the receipt of your application dated 10 Dec 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Anita",
-      "reference_date": "10 Dec 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0217",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0398",
-    "language": "Mixed",
-    "text": "Notice: Office will remain closed on 01 Nov 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "01 Nov 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0469",
-    "language": "Malayalam",
-    "text": "പ്രിയ Anita, നിങ്ങളുടെ അപേക്ഷ 15 Oct 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0365",
-    "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 25 Sept 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0032",
-    "language": "English",
-    "text": "Invoice No: 1156, Vendor: Tech Solutions, Total: ₹1,20,000, Due: 15 Oct 2025",
+    "text": "Invoice No: 8352, Vendor: Bombardier Transportation, GST: 7614415465540, Total: ₹120,000, Due: 1 Oct 2025, Item: Pantograph Assembly",
     "label": "Invoice",
-    "summary": "Invoice summary: payment due 15 Oct 2025.",
+    "summary": "Invoice from Bombardier Transportation for ₹120,000.",
     "entities": {
-      "invoice_number": "1156",
-      "vendor": "Tech Solutions",
-      "total_amount": "₹1,20,000,",
-      "due_date": "15 Oct 2025"
+      "invoice_number": "1909",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "3817422318368",
+      "total_amount": "₹120,000",
+      "due_date": "21 Apr 2025",
+      "item": "AC Unit"
     }
   },
   {
-    "doc_id": "DOC0333",
+    "doc_id": "DOC0893",
     "language": "English",
-    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
+    "text": "Invoice No: 5493, Vendor: Siemens Ltd, GST: 1459982940322, Total: ₹20,000, Due: 27 Oct 2025, Item: Brake Pads",
+    "label": "Asset Register",
+    "summary": "Invoice from Bombardier Transportation for ₹20,000.",
     "entities": {
-      "notice_date": "10 Dec 2025",
-      "notice_type": "Holiday/Schedule"
+      "invoice_number": "6583",
+      "vendor": "Siemens Ltd",
+      "gst_number": "4818052283392",
+      "total_amount": "₹20,000",
+      "due_date": "1 Mar 2025",
+      "item": "Pantograph Assembly"
     }
   },
   {
-    "doc_id": "DOC0259",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0457",
-    "language": "Malayalam",
-    "text": "പ്രിയ Joseph, നിങ്ങളുടെ അപേക്ഷ 25 Sept 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0258",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0043",
+    "doc_id": "DOC0695",
     "language": "English",
-    "text": "Invoice No: 6543, Vendor: Tech Solutions, Total: ₹8,750, Due: 25 Sept 2025",
+    "text": "Invoice No: 9053, Vendor: Alstom Transport India Pvt Ltd, GST: 9126180034180, Total: ₹50,000, Due: 6 Aug 2025, Item: AC Unit",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹50,000.",
+    "entities": {
+      "invoice_number": "8521",
+      "vendor": "Siemens Ltd",
+      "gst_number": "9737232839584",
+      "total_amount": "₹50,000",
+      "due_date": "10 Apr 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0774",
+    "language": "English",
+    "text": "Invoice No: 2587, Vendor: Alstom Transport India Pvt Ltd, GST: 6832563172858, Total: ₹80,000, Due: 1 Jul 2025, Item: AC Unit",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹80,000.",
+    "entities": {
+      "invoice_number": "6529",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "1128072055307",
+      "total_amount": "₹80,000",
+      "due_date": "21 Oct 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0085",
+    "language": "English",
+    "text": "Invoice No: 6173, Vendor: Bombardier Transportation, GST: 1430862901203, Total: ₹110,000, Due: 18 Feb 2025, Item: AC Unit",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹110,000.",
+    "entities": {
+      "invoice_number": "1854",
+      "vendor": "Siemens Ltd",
+      "gst_number": "3478661929175",
+      "total_amount": "₹110,000",
+      "due_date": "2 Jan 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0162",
+    "language": "Bilingual",
+    "text": "Invoice No: 9659, Vendor: Siemens Ltd, GST: 2018257516027, Total: ₹160,000, Due: 2 Feb 2025, Item: Pantograph Assembly",
     "label": "Invoice",
-    "summary": "Invoice summary: payment due 25 Sept 2025.",
+    "summary": "Invoice from Bombardier Transportation for ₹160,000.",
     "entities": {
-      "invoice_number": "6543",
-      "vendor": "Tech Solutions",
-      "total_amount": "₹8,750,",
-      "due_date": "25 Sept 2025"
+      "invoice_number": "2464",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "8345770007181",
+      "total_amount": "₹160,000",
+      "due_date": "8 Jul 2025",
+      "item": "AC Unit"
     }
   },
   {
-    "doc_id": "DOC0099",
+    "doc_id": "DOC0647",
     "language": "English",
-    "text": "Invoice No: 7225, Vendor: Metro Constructions, Total: ₹8,750, Due: 01 Nov 2025",
+    "text": "Job Card No: JC-899, Train: KMRT-16, Task: Motor Replacement, Status: മുടങ്ങിയ, Date: 9 Mar 2025",
+    "label": "Job Card",
+    "summary": "KMRT-7 job card മുടങ്ങിയ (Motor Replacement).",
+    "entities": {
+      "job_card_id": "JC-871",
+      "train_id": "KMRT-8",
+      "task_description": "Motor Replacement",
+      "status": "മുടങ്ങിയ",
+      "completion_date": "2 Jan 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0423",
+    "language": "English",
+    "text": "Invoice No: 4215, Vendor: Siemens Ltd, GST: 3252073432315, Total: ₹160,000, Due: 10 Feb 2025, Item: Brake Pads",
+    "label": "Asset Register",
+    "summary": "Invoice from Siemens Ltd for ₹160,000.",
+    "entities": {
+      "invoice_number": "4301",
+      "vendor": "Siemens Ltd",
+      "gst_number": "9734249681104",
+      "total_amount": "₹160,000",
+      "due_date": "20 Jun 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0543",
+    "language": "Malayalam",
+    "text": "Invoice No: 4921, Vendor: Alstom Transport India Pvt Ltd, GST: 1574307242853, Total: ₹50,000, Due: 27 Nov 2025, Item: Pantograph Assembly",
     "label": "Invoice",
-    "summary": "Invoice summary: payment due 01 Nov 2025.",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹50,000.",
     "entities": {
-      "invoice_number": "7225",
-      "vendor": "Metro Constructions",
-      "total_amount": "₹8,750,",
-      "due_date": "01 Nov 2025"
+      "invoice_number": "2293",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "9689961852853",
+      "total_amount": "₹50,000",
+      "due_date": "14 May 2025",
+      "item": "Pantograph Assembly"
     }
   },
   {
-    "doc_id": "DOC0454",
+    "doc_id": "DOC0583",
     "language": "Malayalam",
-    "text": "പ്രിയ Meera, നിങ്ങളുടെ അപേക്ഷ 25 Sept 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
+    "text": "Invoice No: 2276, Vendor: Siemens Ltd, GST: 7458376433228, Total: ₹170,000, Due: 15 Jun 2025, Item: AC Unit",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹170,000.",
+    "entities": {
+      "invoice_number": "3951",
+      "vendor": "Siemens Ltd",
+      "gst_number": "1545407045825",
+      "total_amount": "₹170,000",
+      "due_date": "27 Nov 2025",
+      "item": "Pantograph Assembly"
+    }
   },
   {
-    "doc_id": "DOC0061",
+    "doc_id": "DOC0232",
     "language": "English",
-    "text": "Payment invoice 6237 issued to Tech Solutions, amount due ₹1,20,000, deadline 15 Oct 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary with vendor and total amount.",
+    "text": "Invoice No: 1980, Vendor: Alstom Transport India Pvt Ltd, GST: 1692756935047, Total: ₹150,000, Due: 4 Jul 2025, Item: Pantograph Assembly",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Bombardier Transportation for ₹150,000.",
     "entities": {
-      "invoice_number": "6237",
-      "total_amount": "₹1,20,000,"
+      "invoice_number": "2532",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "4122040221825",
+      "total_amount": "₹150,000",
+      "due_date": "17 May 2025",
+      "item": "Pantograph Assembly"
     }
   },
   {
-    "doc_id": "DOC0346",
-    "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 15 Oct 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0104",
+    "doc_id": "DOC0854",
     "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 10 Dec 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
+    "text": "Invoice No: 8322, Vendor: Siemens Ltd, GST: 2634512656462, Total: ₹90,000, Due: 21 Oct 2025, Item: Pantograph Assembly",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Siemens Ltd for ₹90,000.",
     "entities": {
-      "deadline": "10 Dec 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0472",
-    "language": "Malayalam",
-    "text": "പ്രിയ Ravi, നിങ്ങളുടെ അപേക്ഷ 01 Nov 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0458",
-    "language": "Malayalam",
-    "text": "പ്രിയ Ravi, നിങ്ങളുടെ അപേക്ഷ 01 Nov 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0386",
-    "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 15 Oct 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0129",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 25 Sept 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "25 Sept 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0373",
-    "language": "English",
-    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "10 Dec 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0330",
-    "language": "Mixed",
-    "text": "Notice: Office will remain closed on 01 Nov 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "01 Nov 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0228",
-    "language": "Mixed",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0367",
-    "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 15 Oct 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0476",
-    "language": "Malayalam",
-    "text": "പ്രിയ Anita, നിങ്ങളുടെ അപേക്ഷ 10 Dec 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0224",
-    "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0112",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 15 Oct 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "15 Oct 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0300",
-    "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0150",
-    "language": "English",
-    "text": "Employee Arjun has been assigned ID EMP101 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP101"
-    }
-  },
-  {
-    "doc_id": "DOC0073",
-    "language": "Mixed",
-    "text": "Invoice No: 7172, Vendor: Tech Solutions, Total: ₹45,000, Due: 01 Nov 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary: payment due 01 Nov 2025.",
-    "entities": {
-      "invoice_number": "7172",
-      "vendor": "Tech Solutions",
-      "total_amount": "₹45,000,",
-      "due_date": "01 Nov 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0203",
-    "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
+      "invoice_number": "6628",
+      "vendor": "Siemens Ltd",
+      "gst_number": "7844232392550",
+      "total_amount": "₹90,000",
+      "due_date": "7 Aug 2025",
+      "item": "Wheel Set"
     }
   },
   {
     "doc_id": "DOC0009",
-    "language": "Mixed",
-    "text": "Payment invoice 3341 issued to ABC Pvt Ltd, amount due ₹1,20,000, deadline 10 Dec 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary with vendor and total amount.",
-    "entities": {
-      "invoice_number": "3341",
-      "total_amount": "₹1,20,000,"
-    }
-  },
-  {
-    "doc_id": "DOC0102",
-    "language": "English",
-    "text": "Employee Anita has been assigned ID EMP404 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP404"
-    }
-  },
-  {
-    "doc_id": "DOC0132",
-    "language": "English",
-    "text": "Employee Arjun has been assigned ID EMP404 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP404"
-    }
-  },
-  {
-    "doc_id": "DOC0119",
-    "language": "English",
-    "text": "Employee Anita has been assigned ID EMP101 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP101"
-    }
-  },
-  {
-    "doc_id": "DOC0151",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 01 Nov 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "01 Nov 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0239",
-    "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0425",
     "language": "Malayalam",
-    "text": "പ്രിയ Meera, നിങ്ങളുടെ അപേക്ഷ 25 Sept 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0429",
-    "language": "Mixed",
-    "text": "Dear Meera, We acknowledge the receipt of your application dated 15 Oct 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
+    "text": "Invoice No: 3819, Vendor: Siemens Ltd, GST: 6059989324668, Total: ₹180,000, Due: 9 Jan 2025, Item: Brake Pads",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹180,000.",
     "entities": {
-      "recipient": "Meera",
-      "reference_date": "15 Oct 2025"
+      "invoice_number": "1823",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "3980007637993",
+      "total_amount": "₹180,000",
+      "due_date": "15 Dec 2025",
+      "item": "AC Unit"
     }
   },
   {
-    "doc_id": "DOC0336",
+    "doc_id": "DOC0305",
     "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 01 Nov 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
+    "text": "Invoice No: 3426, Vendor: Alstom Transport India Pvt Ltd, GST: 9675104630598, Total: ₹110,000, Due: 26 Apr 2025, Item: Pantograph Assembly",
+    "label": "Asset Register",
+    "summary": "Invoice from Bombardier Transportation for ₹110,000.",
     "entities": {
-      "notice_type": "Holiday/Schedule"
+      "invoice_number": "8251",
+      "vendor": "Siemens Ltd",
+      "gst_number": "6260995701147",
+      "total_amount": "₹110,000",
+      "due_date": "15 Jul 2025",
+      "item": "Wheel Set"
     }
   },
   {
-    "doc_id": "DOC0478",
+    "doc_id": "DOC0651",
     "language": "English",
-    "text": "Dear Ravi, We acknowledge the receipt of your application dated 15 Oct 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
+    "text": "Invoice No: 2935, Vendor: Bombardier Transportation, GST: 7372676414357, Total: ₹10,000, Due: 21 Jan 2025, Item: Brake Pads",
+    "label": "Asset Register",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹10,000.",
     "entities": {
-      "recipient": "Ravi",
-      "reference_date": "15 Oct 2025"
+      "invoice_number": "7047",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "6413164307380",
+      "total_amount": "₹10,000",
+      "due_date": "5 Nov 2025",
+      "item": "Wheel Set"
     }
   },
   {
-    "doc_id": "DOC0168",
+    "doc_id": "DOC0083",
     "language": "English",
-    "text": "Employee Ravi has been assigned ID EMP404 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
+    "text": "Job Card No: JC-394, Train: KMRT-7, Task: എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ, Status: Completed, Date: 26 Jun 2025",
+    "label": "Job Card",
+    "summary": "KMRT-9 job card Completed (എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ).",
     "entities": {
-      "employee_id": "EMP404"
+      "job_card_id": "JC-293",
+      "train_id": "KMRT-2",
+      "task_description": "എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ",
+      "status": "Completed",
+      "completion_date": "24 Jun 2025"
     }
   },
   {
-    "doc_id": "DOC0144",
-    "language": "English",
-    "text": "Employee Joseph has been assigned ID EMP101 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP101"
-    }
-  },
-  {
-    "doc_id": "DOC0281",
+    "doc_id": "DOC0404",
     "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
+    "text": "ജോബ് കാർഡ് നമ്പർ: JC-715, ട്രെയിൻ: KMRT-7, ജോലി: Motor Replacement, നില: മുടങ്ങിയ, തീയതി: 20 ജനുവരി 2025",
+    "label": "Job Card",
+    "summary": "KMRT-9 ന്‍റെ ജോബ് കാർഡ് മുടങ്ങിയ (Motor Replacement).",
     "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
+      "job_card_id": "JC-416",
+      "train_id": "KMRT-5",
+      "task_description": "Motor Replacement",
+      "status": "മുടങ്ങിയ",
+      "completion_date": "27 Dec 2025"
     }
   },
   {
-    "doc_id": "DOC0008",
+    "doc_id": "DOC0861",
     "language": "English",
-    "text": "Invoice No: 6963, Vendor: XYZ Corp, Total: ₹12,500, Due: 10 Dec 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary: payment due 10 Dec 2025.",
+    "text": "Job Card No: JC-982, Train: KMRT-15, Task: Wheel Alignment, Status: Pending, Date: 8 Jan 2025",
+    "label": "Job Card",
+    "summary": "KMRT-4 job card Pending (Wheel Alignment).",
     "entities": {
-      "invoice_number": "6963",
-      "vendor": "XYZ Corp",
-      "total_amount": "₹12,500,",
-      "due_date": "10 Dec 2025"
+      "job_card_id": "JC-293",
+      "train_id": "KMRT-17",
+      "task_description": "Wheel Alignment",
+      "status": "Pending",
+      "completion_date": "21 May 2025"
     }
   },
   {
-    "doc_id": "DOC0017",
-    "language": "English",
-    "text": "Payment invoice 6183 issued to Metro Constructions, amount due ₹1,20,000, deadline 25 Sept 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary with vendor and total amount.",
-    "entities": {
-      "invoice_number": "6183",
-      "total_amount": "₹1,20,000,"
-    }
-  },
-  {
-    "doc_id": "DOC0302",
+    "doc_id": "DOC0410",
     "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 25 Sept 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
+    "text": "Invoice No: 2997, Vendor: Siemens Ltd, GST: 9510876245039, Total: ₹190,000, Due: 8 Jun 2025, Item: Wheel Set",
+    "label": "Asset Register",
+    "summary": "Invoice from Siemens Ltd for ₹190,000.",
     "entities": {
-      "notice_type": "Holiday/Schedule"
+      "invoice_number": "4420",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "1925088493050",
+      "total_amount": "₹190,000",
+      "due_date": "24 Jul 2025",
+      "item": "Brake Pads"
     }
   },
   {
-    "doc_id": "DOC0342",
+    "doc_id": "DOC0870",
+    "language": "English",
+    "text": "Invoice No: 6430, Vendor: Bombardier Transportation, GST: 1933650998304, Total: ₹200,000, Due: 17 Jan 2025, Item: Wheel Set",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Siemens Ltd for ₹200,000.",
+    "entities": {
+      "invoice_number": "2452",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "7865873816583",
+      "total_amount": "₹200,000",
+      "due_date": "23 Dec 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0916",
+    "language": "English",
+    "text": "Invoice No: 9916, Vendor: Alstom Transport India Pvt Ltd, GST: 2417707846325, Total: ₹180,000, Due: 18 Apr 2025, Item: Pantograph Assembly",
+    "label": "Train Schedule",
+    "summary": "Invoice from Bombardier Transportation for ₹180,000.",
+    "entities": {
+      "invoice_number": "6962",
+      "vendor": "Siemens Ltd",
+      "gst_number": "7407367447698",
+      "total_amount": "₹180,000",
+      "due_date": "7 Feb 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0762",
     "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 01 Nov 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
+    "text": "സേഫ്റ്റി സർക്കുലർ നമ്പർ: SC-47, തീയതി: 27 May 2025, എല്ലാ ജീവനക്കാരും Emergency Response-ൽ പങ്കെടുക്കണം. അനുസരിക്കാത്തവർക്ക് നടപടി എടുക്കും.",
+    "label": "Safety Circular",
+    "summary": "Emergency Response circular dated 27 May 2025, mandatory for all staff.",
     "entities": {
-      "notice_type": "Holiday/Schedule"
+      "circular_number": "SC-47",
+      "issue_date": "27 May 2025",
+      "subject": "Emergency Response",
+      "validity": "Mandatory"
     }
   },
   {
-    "doc_id": "DOC0108",
+    "doc_id": "DOC0313",
     "language": "English",
-    "text": "Employee Meera has been assigned ID EMP101 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
+    "text": "Safety Circular No: SC-130, Date: 2 Sep 2025, All employees must participate in Safety Gear Compliance. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Safety Gear Compliance circular dated 2 Sep 2025, mandatory for all staff.",
     "entities": {
-      "employee_id": "EMP101"
+      "circular_number": "SC-130",
+      "issue_date": "2 Sep 2025",
+      "subject": "Safety Gear Compliance",
+      "validity": "Mandatory"
     }
   },
   {
-    "doc_id": "DOC0006",
+    "doc_id": "DOC0499",
     "language": "English",
-    "text": "Payment invoice 2657 issued to XYZ Corp, amount due ₹45,000, deadline 01 Nov 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary with vendor and total amount.",
+    "text": "Invoice No: 9815, Vendor: Alstom Transport India Pvt Ltd, GST: 5621857860620, Total: ₹70,000, Due: 27 Aug 2025, Item: AC Unit",
+    "label": "Asset Register",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹70,000.",
     "entities": {
-      "invoice_number": "2657",
-      "total_amount": "₹45,000,"
+      "invoice_number": "7987",
+      "vendor": "Siemens Ltd",
+      "gst_number": "9027772708994",
+      "total_amount": "₹70,000",
+      "due_date": "4 Aug 2025",
+      "item": "AC Unit"
     }
   },
   {
-    "doc_id": "DOC0052",
-    "language": "Mixed",
-    "text": "Invoice No: 9298, Vendor: Metro Constructions, Total: ₹12,500, Due: 10 Dec 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary: payment due 10 Dec 2025.",
-    "entities": {
-      "invoice_number": "9298",
-      "vendor": "Metro Constructions",
-      "total_amount": "₹12,500,",
-      "due_date": "10 Dec 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0110",
+    "doc_id": "DOC0921",
     "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 25 Sept 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
+    "text": "Invoice No: 8944, Vendor: Siemens Ltd, GST: 2031137804646, Total: ₹200,000, Due: 22 Jun 2025, Item: Wheel Set",
+    "label": "Asset Register",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹200,000.",
     "entities": {
-      "deadline": "25 Sept 2025"
+      "invoice_number": "2064",
+      "vendor": "Siemens Ltd",
+      "gst_number": "5046858199669",
+      "total_amount": "₹200,000",
+      "due_date": "19 Apr 2025",
+      "item": "AC Unit"
     }
   },
   {
-    "doc_id": "DOC0027",
+    "doc_id": "DOC0420",
     "language": "English",
-    "text": "Invoice No: 6647, Vendor: XYZ Corp, Total: ₹12,500, Due: 01 Nov 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary: payment due 01 Nov 2025.",
+    "text": "Invoice No: 7222, Vendor: Alstom Transport India Pvt Ltd, GST: 9144885630012, Total: ₹100,000, Due: 27 Feb 2025, Item: Pantograph Assembly",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹100,000.",
     "entities": {
-      "invoice_number": "6647",
-      "vendor": "XYZ Corp",
-      "total_amount": "₹12,500,",
-      "due_date": "01 Nov 2025"
+      "invoice_number": "6130",
+      "vendor": "Siemens Ltd",
+      "gst_number": "8162428065714",
+      "total_amount": "₹100,000",
+      "due_date": "25 Nov 2025",
+      "item": "AC Unit"
     }
   },
   {
-    "doc_id": "DOC0033",
-    "language": "Mixed",
-    "text": "Invoice No: 7214, Vendor: Metro Constructions, Total: ₹12,500, Due: 25 Sept 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary: payment due 25 Sept 2025.",
-    "entities": {
-      "invoice_number": "7214",
-      "vendor": "Metro Constructions",
-      "total_amount": "₹12,500,",
-      "due_date": "25 Sept 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0428",
-    "language": "English",
-    "text": "Dear Meera, We acknowledge the receipt of your application dated 10 Dec 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Meera",
-      "reference_date": "10 Dec 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0227",
-    "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0164",
-    "language": "English",
-    "text": "Employee Ravi has been assigned ID EMP202 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP202"
-    }
-  },
-  {
-    "doc_id": "DOC0357",
-    "language": "English",
-    "text": "Notice: Office will remain closed on 15 Oct 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "15 Oct 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0446",
-    "language": "Mixed",
-    "text": "Dear Joseph, We acknowledge the receipt of your application dated 01 Nov 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Joseph",
-      "reference_date": "01 Nov 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0212",
+    "doc_id": "DOC0823",
     "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
+    "text": "സേഫ്റ്റി സർക്കുലർ നമ്പർ: SC-150, തീയതി: 14 Nov 2025, എല്ലാ ജീവനക്കാരും Fire Drill-ൽ പങ്കെടുക്കണം. അനുസരിക്കാത്തവർക്ക് നടപടി എടുക്കും.",
+    "label": "Safety Circular",
+    "summary": "Fire Drill circular dated 14 Nov 2025, mandatory for all staff.",
     "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
+      "circular_number": "SC-150",
+      "issue_date": "14 Nov 2025",
+      "subject": "Fire Drill",
+      "validity": "Mandatory"
     }
   },
   {
-    "doc_id": "DOC0066",
+    "doc_id": "DOC0069",
     "language": "English",
-    "text": "Payment invoice 4990 issued to Metro Constructions, amount due ₹1,20,000, deadline 01 Nov 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary with vendor and total amount.",
+    "text": "Job Card No: JC-694, Train: KMRT-13, Task: Motor Replacement, Status: പൂർത്തിയായി, Date: 22 Sep 2025",
+    "label": "Job Card",
+    "summary": "KMRT-11 job card പൂർത്തിയായി (Motor Replacement).",
     "entities": {
-      "invoice_number": "4990",
-      "total_amount": "₹1,20,000,"
+      "job_card_id": "JC-301",
+      "train_id": "KMRT-18",
+      "task_description": "Motor Replacement",
+      "status": "പൂർത്തിയായി",
+      "completion_date": "8 Aug 2025"
     }
   },
   {
-    "doc_id": "DOC0115",
+    "doc_id": "DOC0035",
     "language": "English",
-    "text": "Employee Meera has been assigned ID EMP101 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
+    "text": "Invoice No: 1562, Vendor: Alstom Transport India Pvt Ltd, GST: 2995097416427, Total: ₹10,000, Due: 14 Aug 2025, Item: AC Unit",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹10,000.",
     "entities": {
-      "employee_id": "EMP101"
-    }
-  },
-  {
-    "doc_id": "DOC0303",
-    "language": "English",
-    "text": "Notice: Office will remain closed on 15 Oct 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "15 Oct 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0456",
-    "language": "Malayalam",
-    "text": "പ്രിയ Anita, നിങ്ങളുടെ അപേക്ഷ 15 Oct 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0152",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 10 Dec 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "10 Dec 2025"
+      "invoice_number": "3340",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "1442826722873",
+      "total_amount": "₹10,000",
+      "due_date": "9 Oct 2025",
+      "item": "Brake Pads"
     }
   },
   {
     "doc_id": "DOC0018",
     "language": "English",
-    "text": "Payment invoice 1050 issued to ABC Pvt Ltd, amount due ₹12,500, deadline 15 Oct 2025",
+    "text": "Invoice No: 5939, Vendor: Bombardier Transportation, GST: 6685127439167, Total: ₹90,000, Due: 16 May 2025, Item: Brake Pads",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹90,000.",
+    "entities": {
+      "invoice_number": "3244",
+      "vendor": "Siemens Ltd",
+      "gst_number": "7196089747243",
+      "total_amount": "₹90,000",
+      "due_date": "16 May 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0845",
+    "language": "English",
+    "text": "Invoice No: 1610, Vendor: Alstom Transport India Pvt Ltd, GST: 5735744916625, Total: ₹200,000, Due: 2 Jun 2025, Item: Brake Pads",
+    "label": "Asset Register",
+    "summary": "Invoice from Siemens Ltd for ₹200,000.",
+    "entities": {
+      "invoice_number": "2760",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "5329156107261",
+      "total_amount": "₹200,000",
+      "due_date": "20 May 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0228",
+    "language": "English",
+    "text": "Safety Circular No: SC-91, Date: 8 Dec 2025, All employees must participate in Fire Drill. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Fire Drill circular dated 8 Dec 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-91",
+      "issue_date": "8 Dec 2025",
+      "subject": "Fire Drill",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0365",
+    "language": "English",
+    "text": "Invoice No: 2531, Vendor: Alstom Transport India Pvt Ltd, GST: 6200116961297, Total: ₹130,000, Due: 17 Jul 2025, Item: Pantograph Assembly",
     "label": "Invoice",
-    "summary": "Invoice summary with vendor and total amount.",
+    "summary": "Invoice from Bombardier Transportation for ₹130,000.",
     "entities": {
-      "invoice_number": "1050",
-      "total_amount": "₹12,500,"
+      "invoice_number": "6659",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "4439759736647",
+      "total_amount": "₹130,000",
+      "due_date": "22 Jan 2025",
+      "item": "Brake Pads"
     }
   },
   {
-    "doc_id": "DOC0220",
-    "language": "Mixed",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
+    "doc_id": "DOC0268",
+    "language": "Malayalam",
+    "text": "Invoice No: 3743, Vendor: Bombardier Transportation, GST: 1040666716532, Total: ₹100,000, Due: 22 Nov 2025, Item: Pantograph Assembly",
+    "label": "Asset Register",
+    "summary": "Invoice from Bombardier Transportation for ₹100,000.",
     "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
+      "invoice_number": "7349",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "8490591673873",
+      "total_amount": "₹100,000",
+      "due_date": "8 Apr 2025",
+      "item": "Wheel Set"
     }
   },
   {
-    "doc_id": "DOC0273",
+    "doc_id": "DOC0722",
+    "language": "Malayalam",
+    "text": "സേഫ്റ്റി സർക്കുലർ നമ്പർ: SC-19, തീയതി: 2 Feb 2025, എല്ലാ ജീവനക്കാരും Safety Gear Compliance-ൽ പങ്കെടുക്കണം. അനുസരിക്കാത്തവർക്ക് നടപടി എടുക്കും.",
+    "label": "Safety Circular",
+    "summary": "Safety Gear Compliance circular dated 2 Feb 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-19",
+      "issue_date": "2 Feb 2025",
+      "subject": "Safety Gear Compliance",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0635",
     "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
+    "text": "Safety Circular No: SC-24, Date: 21 Nov 2025, All employees must participate in Evacuation Procedure. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Evacuation Procedure circular dated 21 Nov 2025, mandatory for all staff.",
     "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
+      "circular_number": "SC-24",
+      "issue_date": "21 Nov 2025",
+      "subject": "Evacuation Procedure",
+      "validity": "Mandatory"
     }
   },
   {
-    "doc_id": "DOC0380",
+    "doc_id": "DOC0264",
     "language": "English",
-    "text": "Notice: Office will remain closed on 25 Sept 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "25 Sept 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0038",
-    "language": "English",
-    "text": "Invoice No: 7272, Vendor: XYZ Corp, Total: ₹45,000, Due: 01 Nov 2025",
+    "text": "Invoice No: 3869, Vendor: Bombardier Transportation, GST: 9870151915659, Total: ₹50,000, Due: 25 Oct 2025, Item: Brake Pads",
     "label": "Invoice",
-    "summary": "Invoice summary: payment due 01 Nov 2025.",
+    "summary": "Invoice from Bombardier Transportation for ₹50,000.",
     "entities": {
-      "invoice_number": "7272",
-      "vendor": "XYZ Corp",
-      "total_amount": "₹45,000,",
-      "due_date": "01 Nov 2025"
+      "invoice_number": "3805",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "4069656698198",
+      "total_amount": "₹50,000",
+      "due_date": "11 Aug 2025",
+      "item": "Pantograph Assembly"
     }
   },
   {
-    "doc_id": "DOC0282",
+    "doc_id": "DOC0642",
     "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
+    "text": "Safety Circular No: SC-150, Date: 16 Jul 2025, All employees must participate in Emergency Response. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Emergency Response circular dated 16 Jul 2025, mandatory for all staff.",
     "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
+      "circular_number": "SC-150",
+      "issue_date": "16 Jul 2025",
+      "subject": "Emergency Response",
+      "validity": "Mandatory"
     }
   },
   {
-    "doc_id": "DOC0319",
-    "language": "Mixed",
-    "text": "Notice: Office will remain closed on 25 Sept 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
+    "doc_id": "DOC0771",
+    "language": "English",
+    "text": "Invoice No: 2403, Vendor: Siemens Ltd, GST: 4739212549866, Total: ₹180,000, Due: 10 Feb 2025, Item: Pantograph Assembly",
+    "label": "Train Schedule",
+    "summary": "Invoice from Bombardier Transportation for ₹180,000.",
     "entities": {
-      "notice_date": "25 Sept 2025",
-      "notice_type": "Holiday/Schedule"
+      "invoice_number": "6250",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "4296011960872",
+      "total_amount": "₹180,000",
+      "due_date": "13 Apr 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0172",
+    "language": "English",
+    "text": "Invoice No: 4597, Vendor: Bombardier Transportation, GST: 6828468261553, Total: ₹150,000, Due: 23 Oct 2025, Item: Brake Pads",
+    "label": "Asset Register",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹150,000.",
+    "entities": {
+      "invoice_number": "6975",
+      "vendor": "Siemens Ltd",
+      "gst_number": "8905976251190",
+      "total_amount": "₹150,000",
+      "due_date": "7 Jun 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0751",
+    "language": "Malayalam",
+    "text": "സേഫ്റ്റി സർക്കുലർ നമ്പർ: SC-144, തീയതി: 3 Jul 2025, എല്ലാ ജീവനക്കാരും Safety Gear Compliance-ൽ പങ്കെടുക്കണം. അനുസരിക്കാത്തവർക്ക് നടപടി എടുക്കും.",
+    "label": "Safety Circular",
+    "summary": "Safety Gear Compliance circular dated 3 Jul 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-144",
+      "issue_date": "3 Jul 2025",
+      "subject": "Safety Gear Compliance",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0549",
+    "language": "Malayalam",
+    "text": "ജോബ് കാർഡ് നമ്പർ: JC-614, ട്രെയിൻ: KMRT-12, ജോലി: Wheel Alignment, നില: പൂർത്തിയായി, തീയതി: 23 ജൂലൈ 2025",
+    "label": "Job Card",
+    "summary": "KMRT-10 ന്‍റെ ജോബ് കാർഡ് പൂർത്തിയായി (Wheel Alignment).",
+    "entities": {
+      "job_card_id": "JC-363",
+      "train_id": "KMRT-15",
+      "task_description": "Wheel Alignment",
+      "status": "പൂർത്തിയായി",
+      "completion_date": "14 Mar 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0650",
+    "language": "English",
+    "text": "Invoice No: 1494, Vendor: Siemens Ltd, GST: 2972113591182, Total: ₹100,000, Due: 20 Sep 2025, Item: Brake Pads",
+    "label": "Asset Register",
+    "summary": "Invoice from Siemens Ltd for ₹100,000.",
+    "entities": {
+      "invoice_number": "6826",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "1629333540699",
+      "total_amount": "₹100,000",
+      "due_date": "9 Jan 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0530",
+    "language": "Malayalam",
+    "text": "സേഫ്റ്റി സർക്കുലർ നമ്പർ: SC-140, തീയതി: 23 Sep 2025, എല്ലാ ജീവനക്കാരും Emergency Response-ൽ പങ്കെടുക്കണം. അനുസരിക്കാത്തവർക്ക് നടപടി എടുക്കും.",
+    "label": "Safety Circular",
+    "summary": "Emergency Response circular dated 23 Sep 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-140",
+      "issue_date": "23 Sep 2025",
+      "subject": "Emergency Response",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0068",
+    "language": "English",
+    "text": "Invoice No: 4516, Vendor: Alstom Transport India Pvt Ltd, GST: 5475047760405, Total: ₹140,000, Due: 24 Jun 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹140,000.",
+    "entities": {
+      "invoice_number": "2774",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "9901628360929",
+      "total_amount": "₹140,000",
+      "due_date": "2 Dec 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC1028",
+    "language": "Bilingual",
+    "text": "Invoice No: 7627, Vendor: Bombardier Transportation, GST: 5539710043871, Total: ₹200,000, Due: 27 Jun 2025, Item: Brake Pads",
+    "label": "Asset Register",
+    "summary": "Invoice from Siemens Ltd for ₹200,000.",
+    "entities": {
+      "invoice_number": "6211",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "9302573306500",
+      "total_amount": "₹200,000",
+      "due_date": "18 Jun 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0951",
+    "language": "English",
+    "text": "Invoice No: 5740, Vendor: Bombardier Transportation, GST: 9603844682771, Total: ₹110,000, Due: 5 Dec 2025, Item: Pantograph Assembly",
+    "label": "Invoice",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹110,000.",
+    "entities": {
+      "invoice_number": "7577",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "6202284640260",
+      "total_amount": "₹110,000",
+      "due_date": "16 Jul 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0797",
+    "language": "Malayalam",
+    "text": "Invoice No: 2425, Vendor: Alstom Transport India Pvt Ltd, GST: 1009782358228, Total: ₹100,000, Due: 1 Nov 2025, Item: Brake Pads",
+    "label": "Invoice",
+    "summary": "Invoice from Siemens Ltd for ₹100,000.",
+    "entities": {
+      "invoice_number": "2311",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "7844919004611",
+      "total_amount": "₹100,000",
+      "due_date": "10 Feb 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0129",
+    "language": "Malayalam",
+    "text": "Invoice No: 8301, Vendor: Alstom Transport India Pvt Ltd, GST: 1471863078596, Total: ₹10,000, Due: 10 Dec 2025, Item: Brake Pads",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹10,000.",
+    "entities": {
+      "invoice_number": "2787",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "4381625919046",
+      "total_amount": "₹10,000",
+      "due_date": "15 Dec 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0055",
+    "language": "Bilingual",
+    "text": "Invoice No: 1341, Vendor: Alstom Transport India Pvt Ltd, GST: 7306920162178, Total: ₹200,000, Due: 22 Aug 2025, Item: Brake Pads",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹200,000.",
+    "entities": {
+      "invoice_number": "1492",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "8835535236681",
+      "total_amount": "₹200,000",
+      "due_date": "17 Mar 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0881",
+    "language": "English",
+    "text": "Invoice No: 4513, Vendor: Alstom Transport India Pvt Ltd, GST: 6994502472956, Total: ₹180,000, Due: 24 Aug 2025, Item: Wheel Set",
+    "label": "Train Schedule",
+    "summary": "Invoice from Siemens Ltd for ₹180,000.",
+    "entities": {
+      "invoice_number": "1524",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "6984127648557",
+      "total_amount": "₹180,000",
+      "due_date": "5 Jan 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0256",
+    "language": "English",
+    "text": "Invoice No: 8839, Vendor: Bombardier Transportation, GST: 4980198279495, Total: ₹100,000, Due: 4 Aug 2025, Item: Wheel Set",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Bombardier Transportation for ₹100,000.",
+    "entities": {
+      "invoice_number": "2911",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "5202077871212",
+      "total_amount": "₹100,000",
+      "due_date": "28 Jan 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0145",
+    "language": "English",
+    "text": "Invoice No: 6885, Vendor: Siemens Ltd, GST: 3995806856713, Total: ₹60,000, Due: 15 Dec 2025, Item: Pantograph Assembly",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹60,000.",
+    "entities": {
+      "invoice_number": "5632",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "7539974773573",
+      "total_amount": "₹60,000",
+      "due_date": "3 Sep 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0545",
+    "language": "Malayalam",
+    "text": "Invoice No: 9432, Vendor: Bombardier Transportation, GST: 5116983061318, Total: ₹120,000, Due: 1 May 2025, Item: AC Unit",
+    "label": "Train Schedule",
+    "summary": "Invoice from Siemens Ltd for ₹120,000.",
+    "entities": {
+      "invoice_number": "8536",
+      "vendor": "Siemens Ltd",
+      "gst_number": "9753387793279",
+      "total_amount": "₹120,000",
+      "due_date": "15 May 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0492",
+    "language": "Malayalam",
+    "text": "Invoice No: 7950, Vendor: Bombardier Transportation, GST: 2543161322140, Total: ₹120,000, Due: 23 Nov 2025, Item: Wheel Set",
+    "label": "Asset Register",
+    "summary": "Invoice from Siemens Ltd for ₹120,000.",
+    "entities": {
+      "invoice_number": "1065",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "3450055520645",
+      "total_amount": "₹120,000",
+      "due_date": "6 Apr 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0392",
+    "language": "English",
+    "text": "Invoice No: 7583, Vendor: Alstom Transport India Pvt Ltd, GST: 3649883300212, Total: ₹160,000, Due: 5 Nov 2025, Item: Wheel Set",
+    "label": "Invoice",
+    "summary": "Invoice from Siemens Ltd for ₹160,000.",
+    "entities": {
+      "invoice_number": "2196",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "6837201689887",
+      "total_amount": "₹160,000",
+      "due_date": "2 Dec 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0104",
+    "language": "English",
+    "text": "Invoice No: 9122, Vendor: Bombardier Transportation, GST: 7707155905461, Total: ₹190,000, Due: 2 Dec 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹190,000.",
+    "entities": {
+      "invoice_number": "5884",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "8093653090099",
+      "total_amount": "₹190,000",
+      "due_date": "1 Apr 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0443",
+    "language": "English",
+    "text": "Invoice No: 4849, Vendor: Siemens Ltd, GST: 9532200234420, Total: ₹20,000, Due: 6 Apr 2025, Item: Wheel Set",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹20,000.",
+    "entities": {
+      "invoice_number": "7231",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "1252257209823",
+      "total_amount": "₹20,000",
+      "due_date": "4 Dec 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0394",
+    "language": "English",
+    "text": "Invoice No: 9315, Vendor: Bombardier Transportation, GST: 4007865233143, Total: ₹60,000, Due: 6 Sep 2025, Item: AC Unit",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹60,000.",
+    "entities": {
+      "invoice_number": "4994",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "3999196765668",
+      "total_amount": "₹60,000",
+      "due_date": "13 May 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0688",
+    "language": "English",
+    "text": "Invoice No: 2854, Vendor: Bombardier Transportation, GST: 1008543168789, Total: ₹20,000, Due: 27 Mar 2025, Item: Pantograph Assembly",
+    "label": "Asset Register",
+    "summary": "Invoice from Siemens Ltd for ₹20,000.",
+    "entities": {
+      "invoice_number": "8714",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "9926041492738",
+      "total_amount": "₹20,000",
+      "due_date": "27 Oct 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0097",
+    "language": "English",
+    "text": "Job Card No: JC-172, Train: KMRT-7, Task: Brake Inspection, Status: Pending, Date: 16 Apr 2025",
+    "label": "Job Card",
+    "summary": "KMRT-14 job card Pending (Brake Inspection).",
+    "entities": {
+      "job_card_id": "JC-435",
+      "train_id": "KMRT-4",
+      "task_description": "Brake Inspection",
+      "status": "Pending",
+      "completion_date": "19 Feb 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0675",
+    "language": "Bilingual",
+    "text": "Invoice No: 2099, Vendor: Bombardier Transportation, GST: 3127602896211, Total: ₹20,000, Due: 25 May 2025, Item: Brake Pads",
+    "label": "Asset Register",
+    "summary": "Invoice from Bombardier Transportation for ₹20,000.",
+    "entities": {
+      "invoice_number": "2113",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "5739783471091",
+      "total_amount": "₹20,000",
+      "due_date": "12 Jun 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0352",
+    "language": "English",
+    "text": "Invoice No: 1422, Vendor: Alstom Transport India Pvt Ltd, GST: 9597729468122, Total: ₹160,000, Due: 10 Jun 2025, Item: Pantograph Assembly",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Bombardier Transportation for ₹160,000.",
+    "entities": {
+      "invoice_number": "1530",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "3817959481221",
+      "total_amount": "₹160,000",
+      "due_date": "24 Oct 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0908",
+    "language": "Malayalam",
+    "text": "Invoice No: 8689, Vendor: Bombardier Transportation, GST: 4703201526276, Total: ₹40,000, Due: 9 May 2025, Item: Brake Pads",
+    "label": "Invoice",
+    "summary": "Invoice from Bombardier Transportation for ₹40,000.",
+    "entities": {
+      "invoice_number": "1606",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "5098206640406",
+      "total_amount": "₹40,000",
+      "due_date": "18 Feb 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0997",
+    "language": "English",
+    "text": "Invoice No: 9616, Vendor: Siemens Ltd, GST: 7746400600394, Total: ₹50,000, Due: 23 Aug 2025, Item: AC Unit",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Siemens Ltd for ₹50,000.",
+    "entities": {
+      "invoice_number": "3280",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "9913973641932",
+      "total_amount": "₹50,000",
+      "due_date": "10 Feb 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0644",
+    "language": "English",
+    "text": "Safety Circular No: SC-103, Date: 24 Sep 2025, All employees must participate in Safety Gear Compliance. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Safety Gear Compliance circular dated 24 Sep 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-103",
+      "issue_date": "24 Sep 2025",
+      "subject": "Safety Gear Compliance",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0844",
+    "language": "English",
+    "text": "Invoice No: 2239, Vendor: Alstom Transport India Pvt Ltd, GST: 5477469674311, Total: ₹110,000, Due: 19 May 2025, Item: Brake Pads",
+    "label": "Asset Register",
+    "summary": "Invoice from Siemens Ltd for ₹110,000.",
+    "entities": {
+      "invoice_number": "8537",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "3851114218969",
+      "total_amount": "₹110,000",
+      "due_date": "25 Jul 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0368",
+    "language": "English",
+    "text": "Invoice No: 1109, Vendor: Bombardier Transportation, GST: 2072832243125, Total: ₹80,000, Due: 11 Feb 2025, Item: AC Unit",
+    "label": "Asset Register",
+    "summary": "Invoice from Siemens Ltd for ₹80,000.",
+    "entities": {
+      "invoice_number": "8281",
+      "vendor": "Siemens Ltd",
+      "gst_number": "1395348150426",
+      "total_amount": "₹80,000",
+      "due_date": "13 Oct 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0811",
+    "language": "English",
+    "text": "Safety Circular No: SC-97, Date: 18 Nov 2025, All employees must participate in Evacuation Procedure. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Evacuation Procedure circular dated 18 Nov 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-97",
+      "issue_date": "18 Nov 2025",
+      "subject": "Evacuation Procedure",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0778",
+    "language": "English",
+    "text": "Invoice No: 2196, Vendor: Siemens Ltd, GST: 4175761039582, Total: ₹130,000, Due: 17 Dec 2025, Item: AC Unit",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹130,000.",
+    "entities": {
+      "invoice_number": "1368",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "7167657511844",
+      "total_amount": "₹130,000",
+      "due_date": "2 Apr 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0877",
+    "language": "English",
+    "text": "Invoice No: 7483, Vendor: Alstom Transport India Pvt Ltd, GST: 9112099453046, Total: ₹150,000, Due: 7 Jul 2025, Item: Brake Pads",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹150,000.",
+    "entities": {
+      "invoice_number": "2997",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "7006784825043",
+      "total_amount": "₹150,000",
+      "due_date": "20 Dec 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0949",
+    "language": "Malayalam",
+    "text": "ജോബ് കാർഡ് നമ്പർ: JC-539, ട്രെയിൻ: KMRT-2, ജോലി: Motor Replacement, നില: Pending, തീയതി: 5 ജൂൺ 2025",
+    "label": "Job Card",
+    "summary": "KMRT-10 ന്‍റെ ജോബ് കാർഡ് Pending (Motor Replacement).",
+    "entities": {
+      "job_card_id": "JC-829",
+      "train_id": "KMRT-4",
+      "task_description": "Motor Replacement",
+      "status": "Pending",
+      "completion_date": "28 Apr 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0041",
+    "language": "English",
+    "text": "Safety Circular No: SC-100, Date: 12 Jun 2025, All employees must participate in Evacuation Procedure. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Evacuation Procedure circular dated 12 Jun 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-100",
+      "issue_date": "12 Jun 2025",
+      "subject": "Evacuation Procedure",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0899",
+    "language": "English",
+    "text": "Invoice No: 6238, Vendor: Alstom Transport India Pvt Ltd, GST: 9695305186701, Total: ₹70,000, Due: 4 Sep 2025, Item: Brake Pads",
+    "label": "Train Schedule",
+    "summary": "Invoice from Bombardier Transportation for ₹70,000.",
+    "entities": {
+      "invoice_number": "7956",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "8198326215096",
+      "total_amount": "₹70,000",
+      "due_date": "7 Dec 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0205",
+    "language": "English",
+    "text": "Invoice No: 5333, Vendor: Alstom Transport India Pvt Ltd, GST: 4288098748448, Total: ₹70,000, Due: 19 Jun 2025, Item: AC Unit",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹70,000.",
+    "entities": {
+      "invoice_number": "5161",
+      "vendor": "Siemens Ltd",
+      "gst_number": "7045973886923",
+      "total_amount": "₹70,000",
+      "due_date": "7 Jun 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0324",
+    "language": "English",
+    "text": "Invoice No: 3430, Vendor: Alstom Transport India Pvt Ltd, GST: 8113011704644, Total: ₹160,000, Due: 1 Dec 2025, Item: Wheel Set",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹160,000.",
+    "entities": {
+      "invoice_number": "5219",
+      "vendor": "Siemens Ltd",
+      "gst_number": "2050410130677",
+      "total_amount": "₹160,000",
+      "due_date": "5 Mar 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0440",
+    "language": "Malayalam",
+    "text": "Invoice No: 2752, Vendor: Bombardier Transportation, GST: 7860714949934, Total: ₹160,000, Due: 9 Dec 2025, Item: Wheel Set",
+    "label": "Train Schedule",
+    "summary": "Invoice from Bombardier Transportation for ₹160,000.",
+    "entities": {
+      "invoice_number": "2653",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "4389791086991",
+      "total_amount": "₹160,000",
+      "due_date": "19 Jul 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0377",
+    "language": "Malayalam",
+    "text": "Invoice No: 4084, Vendor: Bombardier Transportation, GST: 6233039377571, Total: ₹180,000, Due: 17 Feb 2025, Item: AC Unit",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹180,000.",
+    "entities": {
+      "invoice_number": "3339",
+      "vendor": "Siemens Ltd",
+      "gst_number": "7960958854982",
+      "total_amount": "₹180,000",
+      "due_date": "6 Sep 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0146",
+    "language": "Malayalam",
+    "text": "Invoice No: 5372, Vendor: Bombardier Transportation, GST: 1811555785681, Total: ₹170,000, Due: 27 Jun 2025, Item: AC Unit",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Bombardier Transportation for ₹170,000.",
+    "entities": {
+      "invoice_number": "9013",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "5462680623648",
+      "total_amount": "₹170,000",
+      "due_date": "11 Oct 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0733",
+    "language": "English",
+    "text": "Invoice No: 6293, Vendor: Bombardier Transportation, GST: 9528620345354, Total: ₹60,000, Due: 21 Dec 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Bombardier Transportation for ₹60,000.",
+    "entities": {
+      "invoice_number": "8915",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "2882849497996",
+      "total_amount": "₹60,000",
+      "due_date": "27 Oct 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0827",
+    "language": "English",
+    "text": "Invoice No: 6902, Vendor: Alstom Transport India Pvt Ltd, GST: 8465697969874, Total: ₹100,000, Due: 4 Oct 2025, Item: AC Unit",
+    "label": "Asset Register",
+    "summary": "Invoice from Siemens Ltd for ₹100,000.",
+    "entities": {
+      "invoice_number": "5209",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "4750267224956",
+      "total_amount": "₹100,000",
+      "due_date": "12 Jan 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0572",
+    "language": "Malayalam",
+    "text": "Invoice No: 1433, Vendor: Bombardier Transportation, GST: 9476924522131, Total: ₹60,000, Due: 11 May 2025, Item: AC Unit",
+    "label": "Train Schedule",
+    "summary": "Invoice from Siemens Ltd for ₹60,000.",
+    "entities": {
+      "invoice_number": "4503",
+      "vendor": "Siemens Ltd",
+      "gst_number": "6603762955937",
+      "total_amount": "₹60,000",
+      "due_date": "2 Jul 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0932",
+    "language": "Malayalam",
+    "text": "Invoice No: 8978, Vendor: Alstom Transport India Pvt Ltd, GST: 2634983006176, Total: ₹10,000, Due: 22 Dec 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹10,000.",
+    "entities": {
+      "invoice_number": "1423",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "1886825291387",
+      "total_amount": "₹10,000",
+      "due_date": "26 Dec 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0731",
+    "language": "Malayalam",
+    "text": "Invoice No: 8286, Vendor: Alstom Transport India Pvt Ltd, GST: 6295920391644, Total: ₹150,000, Due: 7 Dec 2025, Item: Pantograph Assembly",
+    "label": "Asset Register",
+    "summary": "Invoice from Bombardier Transportation for ₹150,000.",
+    "entities": {
+      "invoice_number": "7827",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "3974391171491",
+      "total_amount": "₹150,000",
+      "due_date": "25 Dec 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0408",
+    "language": "English",
+    "text": "Invoice No: 4040, Vendor: Alstom Transport India Pvt Ltd, GST: 4624262048821, Total: ₹110,000, Due: 19 Nov 2025, Item: Pantograph Assembly",
+    "label": "Invoice",
+    "summary": "Invoice from Bombardier Transportation for ₹110,000.",
+    "entities": {
+      "invoice_number": "7614",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "1248779536538",
+      "total_amount": "₹110,000",
+      "due_date": "14 Nov 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0054",
+    "language": "Malayalam",
+    "text": "Invoice No: 4153, Vendor: Bombardier Transportation, GST: 6063817480924, Total: ₹200,000, Due: 1 Dec 2025, Item: AC Unit",
+    "label": "Asset Register",
+    "summary": "Invoice from Siemens Ltd for ₹200,000.",
+    "entities": {
+      "invoice_number": "4869",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "3509686822065",
+      "total_amount": "₹200,000",
+      "due_date": "27 Aug 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0087",
+    "language": "English",
+    "text": "Invoice No: 2993, Vendor: Alstom Transport India Pvt Ltd, GST: 6031010293682, Total: ₹10,000, Due: 27 Apr 2025, Item: Brake Pads",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹10,000.",
+    "entities": {
+      "invoice_number": "2648",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "3513890696679",
+      "total_amount": "₹10,000",
+      "due_date": "1 Oct 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0389",
+    "language": "Malayalam",
+    "text": "ജോബ് കാർഡ് നമ്പർ: JC-804, ട്രെയിൻ: KMRT-18, ജോലി: Motor Replacement, നില: Pending, തീയതി: 22 ജൂലൈ 2025",
+    "label": "Job Card",
+    "summary": "KMRT-15 ന്‍റെ ജോബ് കാർഡ് Pending (Motor Replacement).",
+    "entities": {
+      "job_card_id": "JC-565",
+      "train_id": "KMRT-18",
+      "task_description": "Motor Replacement",
+      "status": "Pending",
+      "completion_date": "8 Sep 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0945",
+    "language": "English",
+    "text": "Invoice No: 6209, Vendor: Bombardier Transportation, GST: 7560982839804, Total: ₹170,000, Due: 5 Oct 2025, Item: Brake Pads",
+    "label": "Invoice",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹170,000.",
+    "entities": {
+      "invoice_number": "4308",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "7551052663002",
+      "total_amount": "₹170,000",
+      "due_date": "11 Jul 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0299",
+    "language": "English",
+    "text": "Invoice No: 7212, Vendor: Bombardier Transportation, GST: 3923710657230, Total: ₹90,000, Due: 19 Sep 2025, Item: Wheel Set",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹90,000.",
+    "entities": {
+      "invoice_number": "7329",
+      "vendor": "Siemens Ltd",
+      "gst_number": "7132703183421",
+      "total_amount": "₹90,000",
+      "due_date": "18 Jun 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0495",
+    "language": "English",
+    "text": "Safety Circular No: SC-46, Date: 24 Aug 2025, All employees must participate in Fire Drill. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Fire Drill circular dated 24 Aug 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-46",
+      "issue_date": "24 Aug 2025",
+      "subject": "Fire Drill",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0714",
+    "language": "English",
+    "text": "Invoice No: 6274, Vendor: Alstom Transport India Pvt Ltd, GST: 5389828837433, Total: ₹110,000, Due: 9 Jan 2025, Item: Wheel Set",
+    "label": "Train Schedule",
+    "summary": "Invoice from Bombardier Transportation for ₹110,000.",
+    "entities": {
+      "invoice_number": "4370",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "8839098660905",
+      "total_amount": "₹110,000",
+      "due_date": "26 Jul 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0793",
+    "language": "English",
+    "text": "Job Card No: JC-332, Train: KMRT-3, Task: എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ, Status: Completed, Date: 26 Mar 2025",
+    "label": "Job Card",
+    "summary": "KMRT-7 job card Completed (എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ).",
+    "entities": {
+      "job_card_id": "JC-127",
+      "train_id": "KMRT-9",
+      "task_description": "എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ",
+      "status": "Completed",
+      "completion_date": "7 Dec 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0238",
+    "language": "Malayalam",
+    "text": "Invoice No: 1413, Vendor: Alstom Transport India Pvt Ltd, GST: 2538942209548, Total: ₹150,000, Due: 13 Feb 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹150,000.",
+    "entities": {
+      "invoice_number": "7228",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "5553352241690",
+      "total_amount": "₹150,000",
+      "due_date": "28 May 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0655",
+    "language": "Bilingual",
+    "text": "Invoice No: 6018, Vendor: Siemens Ltd, GST: 1855499695154, Total: ₹170,000, Due: 5 Jul 2025, Item: Brake Pads",
+    "label": "Train Schedule",
+    "summary": "Invoice from Siemens Ltd for ₹170,000.",
+    "entities": {
+      "invoice_number": "4548",
+      "vendor": "Siemens Ltd",
+      "gst_number": "9231216694044",
+      "total_amount": "₹170,000",
+      "due_date": "10 Oct 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0965",
+    "language": "Malayalam",
+    "text": "ജോബ് കാർഡ് നമ്പർ: JC-912, ട്രെയിൻ: KMRT-7, ജോലി: Motor Replacement, നില: മുടങ്ങിയ, തീയതി: 18 ജൂൺ 2025",
+    "label": "Job Card",
+    "summary": "KMRT-7 ന്‍റെ ജോബ് കാർഡ് മുടങ്ങിയ (Motor Replacement).",
+    "entities": {
+      "job_card_id": "JC-196",
+      "train_id": "KMRT-1",
+      "task_description": "Motor Replacement",
+      "status": "മുടങ്ങിയ",
+      "completion_date": "27 Jan 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0577",
+    "language": "Malayalam",
+    "text": "Invoice No: 4211, Vendor: Alstom Transport India Pvt Ltd, GST: 1057715285899, Total: ₹80,000, Due: 10 Jul 2025, Item: Pantograph Assembly",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Siemens Ltd for ₹80,000.",
+    "entities": {
+      "invoice_number": "2800",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "9190495916454",
+      "total_amount": "₹80,000",
+      "due_date": "14 Nov 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0657",
+    "language": "English",
+    "text": "Job Card No: JC-726, Train: KMRT-4, Task: എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ, Status: മുടങ്ങിയ, Date: 25 Apr 2025",
+    "label": "Job Card",
+    "summary": "KMRT-4 job card മുടങ്ങിയ (എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ).",
+    "entities": {
+      "job_card_id": "JC-796",
+      "train_id": "KMRT-15",
+      "task_description": "എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ",
+      "status": "മുടങ്ങിയ",
+      "completion_date": "9 Sep 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0553",
+    "language": "English",
+    "text": "Invoice No: 3085, Vendor: Siemens Ltd, GST: 3345953620290, Total: ₹140,000, Due: 5 May 2025, Item: Pantograph Assembly",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹140,000.",
+    "entities": {
+      "invoice_number": "8936",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "9371515537727",
+      "total_amount": "₹140,000",
+      "due_date": "4 Jun 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0030",
+    "language": "Bilingual",
+    "text": "Safety Circular No: SC-120, Date: 18 Nov 2025. എല്ലാ ജീവനക്കാരും Emergency Response-ൽ പങ്കെടുക്കണം. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Emergency Response circular dated 18 Nov 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-120",
+      "issue_date": "18 Nov 2025",
+      "subject": "Emergency Response",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0431",
+    "language": "English",
+    "text": "Invoice No: 1657, Vendor: Bombardier Transportation, GST: 8666814596405, Total: ₹40,000, Due: 7 Aug 2025, Item: Wheel Set",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹40,000.",
+    "entities": {
+      "invoice_number": "3535",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "1287325316078",
+      "total_amount": "₹40,000",
+      "due_date": "25 Nov 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0112",
+    "language": "Bilingual",
+    "text": "Safety Circular No: SC-31, Date: 23 Apr 2025. എല്ലാ ജീവനക്കാരും Emergency Response-ൽ പങ്കെടുക്കണം. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Emergency Response circular dated 23 Apr 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-31",
+      "issue_date": "23 Apr 2025",
+      "subject": "Emergency Response",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0710",
+    "language": "Malayalam",
+    "text": "Invoice No: 3129, Vendor: Bombardier Transportation, GST: 4881694420590, Total: ₹150,000, Due: 24 Nov 2025, Item: Wheel Set",
+    "label": "Train Schedule",
+    "summary": "Invoice from Bombardier Transportation for ₹150,000.",
+    "entities": {
+      "invoice_number": "8987",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "1489865910815",
+      "total_amount": "₹150,000",
+      "due_date": "27 May 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0564",
+    "language": "Malayalam",
+    "text": "സേഫ്റ്റി സർക്കുലർ നമ്പർ: SC-15, തീയതി: 2 Jul 2025, എല്ലാ ജീവനക്കാരും Evacuation Procedure-ൽ പങ്കെടുക്കണം. അനുസരിക്കാത്തവർക്ക് നടപടി എടുക്കും.",
+    "label": "Safety Circular",
+    "summary": "Evacuation Procedure circular dated 2 Jul 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-15",
+      "issue_date": "2 Jul 2025",
+      "subject": "Evacuation Procedure",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0157",
+    "language": "English",
+    "text": "Invoice No: 4570, Vendor: Siemens Ltd, GST: 8110626877290, Total: ₹30,000, Due: 28 Dec 2025, Item: Wheel Set",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹30,000.",
+    "entities": {
+      "invoice_number": "8652",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "6883707249041",
+      "total_amount": "₹30,000",
+      "due_date": "22 Feb 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0484",
+    "language": "English",
+    "text": "Invoice No: 1909, Vendor: Bombardier Transportation, GST: 1660686020996, Total: ₹140,000, Due: 16 Nov 2025, Item: AC Unit",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹140,000.",
+    "entities": {
+      "invoice_number": "4598",
+      "vendor": "Siemens Ltd",
+      "gst_number": "1039405135183",
+      "total_amount": "₹140,000",
+      "due_date": "3 Oct 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0254",
+    "language": "English",
+    "text": "Safety Circular No: SC-123, Date: 4 Feb 2025, All employees must participate in Fire Drill. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Fire Drill circular dated 4 Feb 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-123",
+      "issue_date": "4 Feb 2025",
+      "subject": "Fire Drill",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0984",
+    "language": "Malayalam",
+    "text": "Invoice No: 1240, Vendor: Siemens Ltd, GST: 5244340084967, Total: ₹180,000, Due: 2 Feb 2025, Item: Pantograph Assembly",
+    "label": "Invoice",
+    "summary": "Invoice from Siemens Ltd for ₹180,000.",
+    "entities": {
+      "invoice_number": "1909",
+      "vendor": "Siemens Ltd",
+      "gst_number": "5932050945557",
+      "total_amount": "₹180,000",
+      "due_date": "23 Sep 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0735",
+    "language": "English",
+    "text": "Safety Circular No: SC-105, Date: 10 May 2025, All employees must participate in Evacuation Procedure. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Evacuation Procedure circular dated 10 May 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-105",
+      "issue_date": "10 May 2025",
+      "subject": "Evacuation Procedure",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0986",
+    "language": "English",
+    "text": "Invoice No: 3978, Vendor: Bombardier Transportation, GST: 9865235684102, Total: ₹50,000, Due: 1 Mar 2025, Item: Brake Pads",
+    "label": "Asset Register",
+    "summary": "Invoice from Bombardier Transportation for ₹50,000.",
+    "entities": {
+      "invoice_number": "2092",
+      "vendor": "Siemens Ltd",
+      "gst_number": "2562759071967",
+      "total_amount": "₹50,000",
+      "due_date": "18 Sep 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0002",
+    "language": "Malayalam",
+    "text": "സേഫ്റ്റി സർക്കുലർ നമ്പർ: SC-146, തീയതി: 24 Feb 2025, എല്ലാ ജീവനക്കാരും Fire Drill-ൽ പങ്കെടുക്കണം. അനുസരിക്കാത്തവർക്ക് നടപടി എടുക്കും.",
+    "label": "Safety Circular",
+    "summary": "Fire Drill circular dated 24 Feb 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-146",
+      "issue_date": "24 Feb 2025",
+      "subject": "Fire Drill",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0954",
+    "language": "English",
+    "text": "Invoice No: 3307, Vendor: Bombardier Transportation, GST: 1979334653995, Total: ₹80,000, Due: 19 Sep 2025, Item: Wheel Set",
+    "label": "Invoice",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹80,000.",
+    "entities": {
+      "invoice_number": "5840",
+      "vendor": "Siemens Ltd",
+      "gst_number": "3441905527686",
+      "total_amount": "₹80,000",
+      "due_date": "21 Jul 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0770",
+    "language": "English",
+    "text": "Safety Circular No: SC-48, Date: 24 Sep 2025, All employees must participate in Evacuation Procedure. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Evacuation Procedure circular dated 24 Sep 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-48",
+      "issue_date": "24 Sep 2025",
+      "subject": "Evacuation Procedure",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0622",
+    "language": "Malayalam",
+    "text": "Invoice No: 6731, Vendor: Siemens Ltd, GST: 7969161340584, Total: ₹60,000, Due: 26 Oct 2025, Item: Wheel Set",
+    "label": "Invoice",
+    "summary": "Invoice from Bombardier Transportation for ₹60,000.",
+    "entities": {
+      "invoice_number": "6455",
+      "vendor": "Siemens Ltd",
+      "gst_number": "6377237946036",
+      "total_amount": "₹60,000",
+      "due_date": "10 May 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0061",
+    "language": "English",
+    "text": "Job Card No: JC-430, Train: KMRT-12, Task: Motor Replacement, Status: Pending, Date: 14 Jan 2025",
+    "label": "Job Card",
+    "summary": "KMRT-14 job card Pending (Motor Replacement).",
+    "entities": {
+      "job_card_id": "JC-609",
+      "train_id": "KMRT-1",
+      "task_description": "Motor Replacement",
+      "status": "Pending",
+      "completion_date": "20 Aug 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0318",
+    "language": "Malayalam",
+    "text": "Invoice No: 5011, Vendor: Bombardier Transportation, GST: 6579008478388, Total: ₹110,000, Due: 19 Apr 2025, Item: Pantograph Assembly",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Siemens Ltd for ₹110,000.",
+    "entities": {
+      "invoice_number": "6923",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "8644769373771",
+      "total_amount": "₹110,000",
+      "due_date": "4 Sep 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC1045",
+    "language": "Bilingual",
+    "text": "Invoice No: 7928, Vendor: Bombardier Transportation, GST: 9326515432328, Total: ₹150,000, Due: 24 Sep 2025, Item: Wheel Set",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Bombardier Transportation for ₹150,000.",
+    "entities": {
+      "invoice_number": "8793",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "8024830049959",
+      "total_amount": "₹150,000",
+      "due_date": "8 Dec 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0809",
+    "language": "English",
+    "text": "Invoice No: 1832, Vendor: Bombardier Transportation, GST: 4778086786727, Total: ₹70,000, Due: 18 Oct 2025, Item: Pantograph Assembly",
+    "label": "Invoice",
+    "summary": "Invoice from Siemens Ltd for ₹70,000.",
+    "entities": {
+      "invoice_number": "8387",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "8489380756678",
+      "total_amount": "₹70,000",
+      "due_date": "16 Jul 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0961",
+    "language": "English",
+    "text": "Invoice No: 4559, Vendor: Siemens Ltd, GST: 1468544663288, Total: ₹170,000, Due: 20 Aug 2025, Item: Brake Pads",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Bombardier Transportation for ₹170,000.",
+    "entities": {
+      "invoice_number": "1918",
+      "vendor": "Siemens Ltd",
+      "gst_number": "1286463626757",
+      "total_amount": "₹170,000",
+      "due_date": "10 Dec 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0924",
+    "language": "Bilingual",
+    "text": "Invoice No: 1362, Vendor: Siemens Ltd, GST: 1685526632608, Total: ₹160,000, Due: 11 Sep 2025, Item: Brake Pads",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹160,000.",
+    "entities": {
+      "invoice_number": "9531",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "8108401312683",
+      "total_amount": "₹160,000",
+      "due_date": "4 Jun 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0479",
+    "language": "Bilingual",
+    "text": "Invoice No: 9294, Vendor: Bombardier Transportation, GST: 3846694067579, Total: ₹190,000, Due: 22 Mar 2025, Item: AC Unit",
+    "label": "Asset Register",
+    "summary": "Invoice from Bombardier Transportation for ₹190,000.",
+    "entities": {
+      "invoice_number": "7943",
+      "vendor": "Siemens Ltd",
+      "gst_number": "3397113123282",
+      "total_amount": "₹190,000",
+      "due_date": "10 Feb 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0281",
+    "language": "Malayalam",
+    "text": "ജോബ് കാർഡ് നമ്പർ: JC-118, ട്രെയിൻ: KMRT-11, ജോലി: Brake Inspection, നില: Pending, തീയതി: 21 ജൂൺ 2025",
+    "label": "Job Card",
+    "summary": "KMRT-7 ന്‍റെ ജോബ് കാർഡ് Pending (Brake Inspection).",
+    "entities": {
+      "job_card_id": "JC-467",
+      "train_id": "KMRT-9",
+      "task_description": "Brake Inspection",
+      "status": "Pending",
+      "completion_date": "9 Aug 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0037",
+    "language": "English",
+    "text": "Invoice No: 4636, Vendor: Bombardier Transportation, GST: 3288518164982, Total: ₹190,000, Due: 2 Jan 2025, Item: Wheel Set",
+    "label": "Invoice",
+    "summary": "Invoice from Siemens Ltd for ₹190,000.",
+    "entities": {
+      "invoice_number": "2656",
+      "vendor": "Siemens Ltd",
+      "gst_number": "8330785600214",
+      "total_amount": "₹190,000",
+      "due_date": "26 Aug 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0032",
+    "language": "English",
+    "text": "Invoice No: 7655, Vendor: Alstom Transport India Pvt Ltd, GST: 8112205250330, Total: ₹100,000, Due: 9 Feb 2025, Item: Brake Pads",
+    "label": "Train Schedule",
+    "summary": "Invoice from Siemens Ltd for ₹100,000.",
+    "entities": {
+      "invoice_number": "4443",
+      "vendor": "Siemens Ltd",
+      "gst_number": "3242307193454",
+      "total_amount": "₹100,000",
+      "due_date": "18 Jun 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0939",
+    "language": "English",
+    "text": "Invoice No: 9463, Vendor: Bombardier Transportation, GST: 3032281489756, Total: ₹150,000, Due: 27 Oct 2025, Item: AC Unit",
+    "label": "Asset Register",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹150,000.",
+    "entities": {
+      "invoice_number": "3844",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "9025291124599",
+      "total_amount": "₹150,000",
+      "due_date": "6 May 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0159",
+    "language": "English",
+    "text": "Safety Circular No: SC-38, Date: 21 Jan 2025, All employees must participate in Fire Drill. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Fire Drill circular dated 21 Jan 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-38",
+      "issue_date": "21 Jan 2025",
+      "subject": "Fire Drill",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0937",
+    "language": "English",
+    "text": "Safety Circular No: SC-135, Date: 11 Mar 2025, All employees must participate in Emergency Response. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Emergency Response circular dated 11 Mar 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-135",
+      "issue_date": "11 Mar 2025",
+      "subject": "Emergency Response",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0369",
+    "language": "English",
+    "text": "Invoice No: 2364, Vendor: Siemens Ltd, GST: 6215367903060, Total: ₹10,000, Due: 7 Jul 2025, Item: Wheel Set",
+    "label": "Asset Register",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹10,000.",
+    "entities": {
+      "invoice_number": "9012",
+      "vendor": "Siemens Ltd",
+      "gst_number": "5643396506074",
+      "total_amount": "₹10,000",
+      "due_date": "23 Jun 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0519",
+    "language": "Malayalam",
+    "text": "സേഫ്റ്റി സർക്കുലർ നമ്പർ: SC-78, തീയതി: 23 Nov 2025, എല്ലാ ജീവനക്കാരും Safety Gear Compliance-ൽ പങ്കെടുക്കണം. അനുസരിക്കാത്തവർക്ക് നടപടി എടുക്കും.",
+    "label": "Safety Circular",
+    "summary": "Safety Gear Compliance circular dated 23 Nov 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-78",
+      "issue_date": "23 Nov 2025",
+      "subject": "Safety Gear Compliance",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0888",
+    "language": "English",
+    "text": "Invoice No: 2172, Vendor: Alstom Transport India Pvt Ltd, GST: 6026789478381, Total: ₹150,000, Due: 11 Apr 2025, Item: AC Unit",
+    "label": "Invoice",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹150,000.",
+    "entities": {
+      "invoice_number": "4394",
+      "vendor": "Siemens Ltd",
+      "gst_number": "3700201467493",
+      "total_amount": "₹150,000",
+      "due_date": "3 Apr 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0058",
+    "language": "English",
+    "text": "Safety Circular No: SC-78, Date: 24 Sep 2025, All employees must participate in Fire Drill. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Fire Drill circular dated 24 Sep 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-78",
+      "issue_date": "24 Sep 2025",
+      "subject": "Fire Drill",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0286",
+    "language": "Bilingual",
+    "text": "Invoice No: 6393, Vendor: Bombardier Transportation, GST: 4563851344875, Total: ₹50,000, Due: 19 Jun 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹50,000.",
+    "entities": {
+      "invoice_number": "5337",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "1210427145278",
+      "total_amount": "₹50,000",
+      "due_date": "7 Mar 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0682",
+    "language": "English",
+    "text": "Invoice No: 6899, Vendor: Bombardier Transportation, GST: 6263440057302, Total: ₹200,000, Due: 19 May 2025, Item: AC Unit",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Bombardier Transportation for ₹200,000.",
+    "entities": {
+      "invoice_number": "9986",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "8955240304029",
+      "total_amount": "₹200,000",
+      "due_date": "3 May 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC1002",
+    "language": "English",
+    "text": "Job Card No: JC-681, Train: KMRT-20, Task: Motor Replacement, Status: Pending, Date: 9 Dec 2025",
+    "label": "Job Card",
+    "summary": "KMRT-9 job card Pending (Motor Replacement).",
+    "entities": {
+      "job_card_id": "JC-494",
+      "train_id": "KMRT-17",
+      "task_description": "Motor Replacement",
+      "status": "Pending",
+      "completion_date": "20 Aug 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0074",
+    "language": "English",
+    "text": "Job Card No: JC-617, Train: KMRT-11, Task: എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ, Status: മുടങ്ങിയ, Date: 13 Sep 2025",
+    "label": "Job Card",
+    "summary": "KMRT-20 job card മുടങ്ങിയ (എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ).",
+    "entities": {
+      "job_card_id": "JC-781",
+      "train_id": "KMRT-7",
+      "task_description": "എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ",
+      "status": "മുടങ്ങിയ",
+      "completion_date": "11 Jun 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0393",
+    "language": "Malayalam",
+    "text": "Invoice No: 7195, Vendor: Bombardier Transportation, GST: 7363560287240, Total: ₹190,000, Due: 10 Oct 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Bombardier Transportation for ₹190,000.",
+    "entities": {
+      "invoice_number": "6796",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "4035621882100",
+      "total_amount": "₹190,000",
+      "due_date": "13 Feb 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0620",
+    "language": "English",
+    "text": "Invoice No: 5668, Vendor: Siemens Ltd, GST: 4012491193326, Total: ₹20,000, Due: 23 Nov 2025, Item: Brake Pads",
+    "label": "Asset Register",
+    "summary": "Invoice from Siemens Ltd for ₹20,000.",
+    "entities": {
+      "invoice_number": "4965",
+      "vendor": "Siemens Ltd",
+      "gst_number": "3371486151054",
+      "total_amount": "₹20,000",
+      "due_date": "11 Nov 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0188",
+    "language": "Malayalam",
+    "text": "Invoice No: 1281, Vendor: Alstom Transport India Pvt Ltd, GST: 4537156857865, Total: ₹110,000, Due: 17 Nov 2025, Item: Wheel Set",
+    "label": "Asset Register",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹110,000.",
+    "entities": {
+      "invoice_number": "7959",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "5971436262321",
+      "total_amount": "₹110,000",
+      "due_date": "10 Jun 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0011",
+    "language": "Malayalam",
+    "text": "Invoice No: 1154, Vendor: Siemens Ltd, GST: 8546339758219, Total: ₹170,000, Due: 4 Sep 2025, Item: Pantograph Assembly",
+    "label": "Asset Register",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹170,000.",
+    "entities": {
+      "invoice_number": "2094",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "7359766906545",
+      "total_amount": "₹170,000",
+      "due_date": "12 Jun 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0632",
+    "language": "Bilingual",
+    "text": "Invoice No: 2231, Vendor: Alstom Transport India Pvt Ltd, GST: 4719331252105, Total: ₹50,000, Due: 23 Sep 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹50,000.",
+    "entities": {
+      "invoice_number": "9668",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "7022768183285",
+      "total_amount": "₹50,000",
+      "due_date": "19 Aug 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0206",
+    "language": "Malayalam",
+    "text": "Invoice No: 7374, Vendor: Alstom Transport India Pvt Ltd, GST: 1715558840502, Total: ₹180,000, Due: 9 Oct 2025, Item: Brake Pads",
+    "label": "Invoice",
+    "summary": "Invoice from Bombardier Transportation for ₹180,000.",
+    "entities": {
+      "invoice_number": "8229",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "1283339141835",
+      "total_amount": "₹180,000",
+      "due_date": "8 Mar 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0046",
+    "language": "Malayalam",
+    "text": "Invoice No: 2153, Vendor: Siemens Ltd, GST: 6177484149933, Total: ₹160,000, Due: 26 May 2025, Item: AC Unit",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹160,000.",
+    "entities": {
+      "invoice_number": "9045",
+      "vendor": "Siemens Ltd",
+      "gst_number": "2342899570772",
+      "total_amount": "₹160,000",
+      "due_date": "19 Oct 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0371",
+    "language": "Malayalam",
+    "text": "Invoice No: 9353, Vendor: Bombardier Transportation, GST: 6724980889357, Total: ₹180,000, Due: 17 Apr 2025, Item: Wheel Set",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Bombardier Transportation for ₹180,000.",
+    "entities": {
+      "invoice_number": "8203",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "9429760470969",
+      "total_amount": "₹180,000",
+      "due_date": "1 Jun 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0246",
+    "language": "English",
+    "text": "Invoice No: 2393, Vendor: Alstom Transport India Pvt Ltd, GST: 7622326936560, Total: ₹80,000, Due: 2 Aug 2025, Item: Wheel Set",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹80,000.",
+    "entities": {
+      "invoice_number": "6433",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "3521669969936",
+      "total_amount": "₹80,000",
+      "due_date": "5 Aug 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0970",
+    "language": "Bilingual",
+    "text": "Invoice No: 2244, Vendor: Alstom Transport India Pvt Ltd, GST: 9336456473055, Total: ₹120,000, Due: 3 Sep 2025, Item: Brake Pads",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹120,000.",
+    "entities": {
+      "invoice_number": "4645",
+      "vendor": "Siemens Ltd",
+      "gst_number": "9834189924540",
+      "total_amount": "₹120,000",
+      "due_date": "2 May 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0661",
+    "language": "Bilingual",
+    "text": "Safety Circular No: SC-129, Date: 26 Oct 2025. എല്ലാ ജീവനക്കാരും Fire Drill-ൽ പങ്കെടുക്കണം. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Fire Drill circular dated 26 Oct 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-129",
+      "issue_date": "26 Oct 2025",
+      "subject": "Fire Drill",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0126",
+    "language": "Malayalam",
+    "text": "Invoice No: 3203, Vendor: Bombardier Transportation, GST: 2928180302641, Total: ₹30,000, Due: 3 May 2025, Item: Wheel Set",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹30,000.",
+    "entities": {
+      "invoice_number": "3998",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "4971494813781",
+      "total_amount": "₹30,000",
+      "due_date": "11 Feb 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0619",
+    "language": "English",
+    "text": "Invoice No: 3096, Vendor: Alstom Transport India Pvt Ltd, GST: 2392778868748, Total: ₹160,000, Due: 15 May 2025, Item: AC Unit",
+    "label": "Asset Register",
+    "summary": "Invoice from Bombardier Transportation for ₹160,000.",
+    "entities": {
+      "invoice_number": "4507",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "4275792151649",
+      "total_amount": "₹160,000",
+      "due_date": "3 Nov 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0387",
+    "language": "Malayalam",
+    "text": "Invoice No: 3576, Vendor: Alstom Transport India Pvt Ltd, GST: 3864312773279, Total: ₹80,000, Due: 14 Apr 2025, Item: Pantograph Assembly",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹80,000.",
+    "entities": {
+      "invoice_number": "7722",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "7256675963416",
+      "total_amount": "₹80,000",
+      "due_date": "7 Jul 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0767",
+    "language": "English",
+    "text": "Job Card No: JC-708, Train: KMRT-9, Task: Motor Replacement, Status: മുടങ്ങിയ, Date: 15 Feb 2025",
+    "label": "Job Card",
+    "summary": "KMRT-7 job card മുടങ്ങിയ (Motor Replacement).",
+    "entities": {
+      "job_card_id": "JC-938",
+      "train_id": "KMRT-16",
+      "task_description": "Motor Replacement",
+      "status": "മുടങ്ങിയ",
+      "completion_date": "22 Feb 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0694",
+    "language": "English",
+    "text": "Invoice No: 4183, Vendor: Siemens Ltd, GST: 6296239660977, Total: ₹190,000, Due: 9 Oct 2025, Item: Pantograph Assembly",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹190,000.",
+    "entities": {
+      "invoice_number": "8876",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "2965322106840",
+      "total_amount": "₹190,000",
+      "due_date": "25 Sep 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0345",
+    "language": "English",
+    "text": "Invoice No: 4966, Vendor: Siemens Ltd, GST: 7724947745740, Total: ₹160,000, Due: 21 Feb 2025, Item: Wheel Set",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹160,000.",
+    "entities": {
+      "invoice_number": "3029",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "1684121704134",
+      "total_amount": "₹160,000",
+      "due_date": "7 Mar 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC1030",
+    "language": "Malayalam",
+    "text": "ജോബ് കാർഡ് നമ്പർ: JC-182, ട്രെയിൻ: KMRT-15, ജോലി: Wheel Alignment, നില: പൂർത്തിയായി, തീയതി: 25 ഡിസംബർ 2025",
+    "label": "Job Card",
+    "summary": "KMRT-10 ന്‍റെ ജോബ് കാർഡ് പൂർത്തിയായി (Wheel Alignment).",
+    "entities": {
+      "job_card_id": "JC-505",
+      "train_id": "KMRT-14",
+      "task_description": "Wheel Alignment",
+      "status": "പൂർത്തിയായി",
+      "completion_date": "12 May 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0536",
+    "language": "English",
+    "text": "Safety Circular No: SC-115, Date: 8 Aug 2025, All employees must participate in Fire Drill. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Fire Drill circular dated 8 Aug 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-115",
+      "issue_date": "8 Aug 2025",
+      "subject": "Fire Drill",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0366",
+    "language": "Malayalam",
+    "text": "Invoice No: 6633, Vendor: Alstom Transport India Pvt Ltd, GST: 3557826925739, Total: ₹90,000, Due: 19 Oct 2025, Item: Pantograph Assembly",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Bombardier Transportation for ₹90,000.",
+    "entities": {
+      "invoice_number": "9495",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "7314923835073",
+      "total_amount": "₹90,000",
+      "due_date": "24 Aug 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0724",
+    "language": "English",
+    "text": "Invoice No: 9532, Vendor: Siemens Ltd, GST: 5671349026675, Total: ₹180,000, Due: 18 Apr 2025, Item: AC Unit",
+    "label": "Invoice",
+    "summary": "Invoice from Siemens Ltd for ₹180,000.",
+    "entities": {
+      "invoice_number": "4705",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "2746478434838",
+      "total_amount": "₹180,000",
+      "due_date": "15 Dec 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0089",
+    "language": "Malayalam",
+    "text": "Invoice No: 7012, Vendor: Siemens Ltd, GST: 4299955851191, Total: ₹50,000, Due: 13 Jan 2025, Item: AC Unit",
+    "label": "Invoice",
+    "summary": "Invoice from Bombardier Transportation for ₹50,000.",
+    "entities": {
+      "invoice_number": "2670",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "4688443866660",
+      "total_amount": "₹50,000",
+      "due_date": "19 Jul 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0849",
+    "language": "English",
+    "text": "Invoice No: 3729, Vendor: Alstom Transport India Pvt Ltd, GST: 1444338784087, Total: ₹90,000, Due: 27 Feb 2025, Item: Brake Pads",
+    "label": "Invoice",
+    "summary": "Invoice from Siemens Ltd for ₹90,000.",
+    "entities": {
+      "invoice_number": "6559",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "8762375340526",
+      "total_amount": "₹90,000",
+      "due_date": "24 Sep 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0180",
+    "language": "English",
+    "text": "Invoice No: 6563, Vendor: Bombardier Transportation, GST: 1578997596600, Total: ₹130,000, Due: 4 Dec 2025, Item: AC Unit",
+    "label": "Train Schedule",
+    "summary": "Invoice from Bombardier Transportation for ₹130,000.",
+    "entities": {
+      "invoice_number": "2834",
+      "vendor": "Siemens Ltd",
+      "gst_number": "8541233421655",
+      "total_amount": "₹130,000",
+      "due_date": "27 Jun 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0936",
+    "language": "Bilingual",
+    "text": "Invoice No: 3318, Vendor: Siemens Ltd, GST: 7297736183727, Total: ₹160,000, Due: 6 Dec 2025, Item: Pantograph Assembly",
+    "label": "Asset Register",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹160,000.",
+    "entities": {
+      "invoice_number": "2600",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "1502057537645",
+      "total_amount": "₹160,000",
+      "due_date": "8 May 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0789",
+    "language": "Bilingual",
+    "text": "Invoice No: 3590, Vendor: Siemens Ltd, GST: 8834003296597, Total: ₹190,000, Due: 10 Jun 2025, Item: AC Unit",
+    "label": "Train Schedule",
+    "summary": "Invoice from Bombardier Transportation for ₹190,000.",
+    "entities": {
+      "invoice_number": "1806",
+      "vendor": "Siemens Ltd",
+      "gst_number": "3134474882465",
+      "total_amount": "₹190,000",
+      "due_date": "5 Mar 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0116",
+    "language": "English",
+    "text": "Invoice No: 5057, Vendor: Bombardier Transportation, GST: 1223152833989, Total: ₹40,000, Due: 8 Jan 2025, Item: Pantograph Assembly",
+    "label": "Invoice",
+    "summary": "Invoice from Bombardier Transportation for ₹40,000.",
+    "entities": {
+      "invoice_number": "1923",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "9280817399748",
+      "total_amount": "₹40,000",
+      "due_date": "27 Nov 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0026",
+    "language": "English",
+    "text": "Invoice No: 1454, Vendor: Bombardier Transportation, GST: 4318448227084, Total: ₹50,000, Due: 23 Jul 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Bombardier Transportation for ₹50,000.",
+    "entities": {
+      "invoice_number": "4789",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "2176717418564",
+      "total_amount": "₹50,000",
+      "due_date": "2 Jun 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0990",
+    "language": "Malayalam",
+    "text": "സേഫ്റ്റി സർക്കുലർ നമ്പർ: SC-65, തീയതി: 11 Aug 2025, എല്ലാ ജീവനക്കാരും Fire Drill-ൽ പങ്കെടുക്കണം. അനുസരിക്കാത്തവർക്ക് നടപടി എടുക്കും.",
+    "label": "Safety Circular",
+    "summary": "Fire Drill circular dated 11 Aug 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-65",
+      "issue_date": "11 Aug 2025",
+      "subject": "Fire Drill",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0140",
+    "language": "English",
+    "text": "Invoice No: 3631, Vendor: Alstom Transport India Pvt Ltd, GST: 9157254007567, Total: ₹30,000, Due: 1 Sep 2025, Item: Pantograph Assembly",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Siemens Ltd for ₹30,000.",
+    "entities": {
+      "invoice_number": "6630",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "5729447569420",
+      "total_amount": "₹30,000",
+      "due_date": "11 May 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0316",
+    "language": "English",
+    "text": "Invoice No: 9701, Vendor: Bombardier Transportation, GST: 1317877203752, Total: ₹150,000, Due: 17 Oct 2025, Item: Brake Pads",
+    "label": "Train Schedule",
+    "summary": "Invoice from Siemens Ltd for ₹150,000.",
+    "entities": {
+      "invoice_number": "9095",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "8134798115235",
+      "total_amount": "₹150,000",
+      "due_date": "3 Feb 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0329",
+    "language": "English",
+    "text": "Invoice No: 8588, Vendor: Bombardier Transportation, GST: 3600402213817, Total: ₹40,000, Due: 19 Nov 2025, Item: Wheel Set",
+    "label": "Invoice",
+    "summary": "Invoice from Bombardier Transportation for ₹40,000.",
+    "entities": {
+      "invoice_number": "8457",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "9970242092995",
+      "total_amount": "₹40,000",
+      "due_date": "24 Oct 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0798",
+    "language": "English",
+    "text": "Invoice No: 3195, Vendor: Siemens Ltd, GST: 3707143923774, Total: ₹160,000, Due: 26 Apr 2025, Item: AC Unit",
+    "label": "Train Schedule",
+    "summary": "Invoice from Bombardier Transportation for ₹160,000.",
+    "entities": {
+      "invoice_number": "5713",
+      "vendor": "Siemens Ltd",
+      "gst_number": "5344870986211",
+      "total_amount": "₹160,000",
+      "due_date": "24 Sep 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0580",
+    "language": "Malayalam",
+    "text": "സേഫ്റ്റി സർക്കുലർ നമ്പർ: SC-80, തീയതി: 10 Sep 2025, എല്ലാ ജീവനക്കാരും Fire Drill-ൽ പങ്കെടുക്കണം. അനുസരിക്കാത്തവർക്ക് നടപടി എടുക്കും.",
+    "label": "Safety Circular",
+    "summary": "Fire Drill circular dated 10 Sep 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-80",
+      "issue_date": "10 Sep 2025",
+      "subject": "Fire Drill",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0725",
+    "language": "English",
+    "text": "Invoice No: 1388, Vendor: Bombardier Transportation, GST: 3567511198605, Total: ₹110,000, Due: 7 Jan 2025, Item: Wheel Set",
+    "label": "Invoice",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹110,000.",
+    "entities": {
+      "invoice_number": "4389",
+      "vendor": "Siemens Ltd",
+      "gst_number": "9685320934891",
+      "total_amount": "₹110,000",
+      "due_date": "20 Jan 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0660",
+    "language": "Bilingual",
+    "text": "Invoice No: 3387, Vendor: Bombardier Transportation, GST: 7103235260946, Total: ₹70,000, Due: 28 Apr 2025, Item: Wheel Set",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹70,000.",
+    "entities": {
+      "invoice_number": "2638",
+      "vendor": "Siemens Ltd",
+      "gst_number": "4597384294535",
+      "total_amount": "₹70,000",
+      "due_date": "23 Feb 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0940",
+    "language": "English",
+    "text": "Safety Circular No: SC-12, Date: 10 Apr 2025, All employees must participate in Safety Gear Compliance. Non-compliance will attract disciplinary action.",
+    "label": "Safety Circular",
+    "summary": "Safety Gear Compliance circular dated 10 Apr 2025, mandatory for all staff.",
+    "entities": {
+      "circular_number": "SC-12",
+      "issue_date": "10 Apr 2025",
+      "subject": "Safety Gear Compliance",
+      "validity": "Mandatory"
+    }
+  },
+  {
+    "doc_id": "DOC0204",
+    "language": "English",
+    "text": "Job Card No: JC-966, Train: KMRT-7, Task: Wheel Alignment, Status: മുടങ്ങിയ, Date: 2 May 2025",
+    "label": "Job Card",
+    "summary": "KMRT-2 job card മുടങ്ങിയ (Wheel Alignment).",
+    "entities": {
+      "job_card_id": "JC-335",
+      "train_id": "KMRT-2",
+      "task_description": "Wheel Alignment",
+      "status": "മുടങ്ങിയ",
+      "completion_date": "15 Feb 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0825",
+    "language": "Malayalam",
+    "text": "Invoice No: 5491, Vendor: Bombardier Transportation, GST: 5091714514249, Total: ₹130,000, Due: 12 Nov 2025, Item: Wheel Set",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹130,000.",
+    "entities": {
+      "invoice_number": "8249",
+      "vendor": "Siemens Ltd",
+      "gst_number": "3354021381459",
+      "total_amount": "₹130,000",
+      "due_date": "14 Jul 2025",
+      "item": "AC Unit"
+    }
+  },
+  {
+    "doc_id": "DOC0676",
+    "language": "English",
+    "text": "Invoice No: 2918, Vendor: Alstom Transport India Pvt Ltd, GST: 2347825648070, Total: ₹160,000, Due: 6 Jun 2025, Item: Wheel Set",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Bombardier Transportation for ₹160,000.",
+    "entities": {
+      "invoice_number": "2862",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "6432868237791",
+      "total_amount": "₹160,000",
+      "due_date": "12 Oct 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0298",
+    "language": "English",
+    "text": "Invoice No: 9498, Vendor: Alstom Transport India Pvt Ltd, GST: 3623942801199, Total: ₹90,000, Due: 12 Feb 2025, Item: Wheel Set",
+    "label": "Train Schedule",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹90,000.",
+    "entities": {
+      "invoice_number": "1322",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "9340691615269",
+      "total_amount": "₹90,000",
+      "due_date": "8 Mar 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0070",
+    "language": "English",
+    "text": "Invoice No: 5669, Vendor: Alstom Transport India Pvt Ltd, GST: 2241334307578, Total: ₹120,000, Due: 13 Nov 2025, Item: Brake Pads",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Siemens Ltd for ₹120,000.",
+    "entities": {
+      "invoice_number": "9755",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "7566383678002",
+      "total_amount": "₹120,000",
+      "due_date": "2 Apr 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0361",
+    "language": "English",
+    "text": "Invoice No: 1850, Vendor: Alstom Transport India Pvt Ltd, GST: 3137814468981, Total: ₹170,000, Due: 7 Mar 2025, Item: Brake Pads",
+    "label": "Invoice",
+    "summary": "Invoice from Bombardier Transportation for ₹170,000.",
+    "entities": {
+      "invoice_number": "2624",
+      "vendor": "Siemens Ltd",
+      "gst_number": "3704192366816",
+      "total_amount": "₹170,000",
+      "due_date": "23 Oct 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0320",
+    "language": "Malayalam",
+    "text": "Invoice No: 3994, Vendor: Alstom Transport India Pvt Ltd, GST: 2272557102164, Total: ₹80,000, Due: 21 Jan 2025, Item: Wheel Set",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Siemens Ltd for ₹80,000.",
+    "entities": {
+      "invoice_number": "8124",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "2541355462042",
+      "total_amount": "₹80,000",
+      "due_date": "12 Mar 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC0685",
+    "language": "English",
+    "text": "Invoice No: 5492, Vendor: Alstom Transport India Pvt Ltd, GST: 6101050093282, Total: ₹190,000, Due: 5 Feb 2025, Item: Pantograph Assembly",
+    "label": "Invoice",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹190,000.",
+    "entities": {
+      "invoice_number": "3152",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "6559763210619",
+      "total_amount": "₹190,000",
+      "due_date": "16 Jul 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0907",
+    "language": "English",
+    "text": "Job Card No: JC-647, Train: KMRT-7, Task: എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ, Status: Completed, Date: 15 Dec 2025",
+    "label": "Job Card",
+    "summary": "KMRT-14 job card Completed (എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ).",
+    "entities": {
+      "job_card_id": "JC-526",
+      "train_id": "KMRT-20",
+      "task_description": "എയർ കണ്ടീഷൻ ഫിൽറ്റർ മാറ്റൽ",
+      "status": "Completed",
+      "completion_date": "13 Jun 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0207",
+    "language": "English",
+    "text": "Invoice No: 3599, Vendor: Siemens Ltd, GST: 4099048904284, Total: ₹180,000, Due: 3 Mar 2025, Item: Pantograph Assembly",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹180,000.",
+    "entities": {
+      "invoice_number": "8364",
+      "vendor": "Bombardier Transportation",
+      "gst_number": "4001673018071",
+      "total_amount": "₹180,000",
+      "due_date": "3 Sep 2025",
+      "item": "Pantograph Assembly"
+    }
+  },
+  {
+    "doc_id": "DOC0713",
+    "language": "English",
+    "text": "Invoice No: 6515, Vendor: Alstom Transport India Pvt Ltd, GST: 9715475870428, Total: ₹130,000, Due: 10 Jul 2025, Item: Wheel Set",
+    "label": "Maintenance Report",
+    "summary": "Invoice from Alstom Transport India Pvt Ltd for ₹130,000.",
+    "entities": {
+      "invoice_number": "6130",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "5701044794357",
+      "total_amount": "₹130,000",
+      "due_date": "20 Jul 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0768",
+    "language": "English",
+    "text": "Invoice No: 3871, Vendor: Siemens Ltd, GST: 2514377127693, Total: ₹170,000, Due: 26 Aug 2025, Item: Brake Pads",
+    "label": "Train Schedule",
+    "summary": "Invoice from Bombardier Transportation for ₹170,000.",
+    "entities": {
+      "invoice_number": "6645",
+      "vendor": "Alstom Transport India Pvt Ltd",
+      "gst_number": "7698402820686",
+      "total_amount": "₹170,000",
+      "due_date": "23 Jun 2025",
+      "item": "Wheel Set"
+    }
+  },
+  {
+    "doc_id": "DOC0803",
+    "language": "English",
+    "text": "Invoice No: 3820, Vendor: Alstom Transport India Pvt Ltd, GST: 2456587634952, Total: ₹10,000, Due: 28 Aug 2025, Item: Pantograph Assembly",
+    "label": "Employee Attendance",
+    "summary": "Invoice from Bombardier Transportation for ₹10,000.",
+    "entities": {
+      "invoice_number": "4285",
+      "vendor": "Siemens Ltd",
+      "gst_number": "4921132635853",
+      "total_amount": "₹10,000",
+      "due_date": "14 Sep 2025",
+      "item": "Brake Pads"
+    }
+  },
+  {
+    "doc_id": "DOC1034",
+    "language": "English",
+    "text": "Job Card No: JC-828, Train: KMRT-9, Task: Motor Replacement, Status: പൂർത്തിയായി, Date: 23 Aug 2025",
+    "label": "Job Card",
+    "summary": "KMRT-10 job card പൂർത്തിയായി (Motor Replacement).",
+    "entities": {
+      "job_card_id": "JC-793",
+      "train_id": "KMRT-16",
+      "task_description": "Motor Replacement",
+      "status": "പൂർത്തിയായി",
+      "completion_date": "11 Dec 2025"
     }
   }
 ]
