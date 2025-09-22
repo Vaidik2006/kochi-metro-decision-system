@@ -1,5 +1,37 @@
 [
   {
+    "doc_id": "DOC0390",
+    "language": "English",
+    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_date": "10 Dec 2025",
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0197",
+    "language": "Mixed",
+    "text": "Employee Arjun has been assigned ID EMP202 in HR system.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "employee_id": "EMP202"
+    }
+  },
+  {
+    "doc_id": "DOC0308",
+    "language": "English",
+    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_date": "10 Dec 2025",
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
     "doc_id": "DOC0030",
     "language": "English",
     "text": "Payment invoice 6328 issued to XYZ Corp, amount due ₹1,20,000, deadline 01 Nov 2025",
@@ -11,29 +43,41 @@
     }
   },
   {
-    "doc_id": "DOC0428",
+    "doc_id": "DOC0140",
     "language": "English",
-    "text": "Dear Meera, We acknowledge the receipt of your application dated 10 Dec 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
+    "text": "HR Policy Update: All employees must submit leave forms by 25 Sept 2025.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
     "entities": {
-      "recipient": "Meera",
-      "reference_date": "10 Dec 2025"
+      "deadline": "25 Sept 2025"
     }
   },
   {
-    "doc_id": "DOC0249",
+    "doc_id": "DOC0301",
     "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
+    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
     "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
+      "notice_date": "10 Dec 2025",
+      "notice_type": "Holiday/Schedule"
     }
   },
   {
-    "doc_id": "DOC0231",
+    "doc_id": "DOC0076",
+    "language": "English",
+    "text": "Invoice No: 1476, Vendor: ABC Pvt Ltd, Total: ₹8,750, Due: 15 Oct 2025",
+    "label": "Invoice",
+    "summary": "Invoice summary: payment due 15 Oct 2025.",
+    "entities": {
+      "invoice_number": "1476",
+      "vendor": "ABC Pvt Ltd",
+      "total_amount": "₹8,750,",
+      "due_date": "15 Oct 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0246",
     "language": "Malayalam",
     "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
     "label": "Safety Guidelines",
@@ -44,7 +88,115 @@
     }
   },
   {
-    "doc_id": "DOC0385",
+    "doc_id": "DOC0218",
+    "language": "Malayalam",
+    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
+    "label": "Safety Guidelines",
+    "summary": "Safety rule reminder for workers.",
+    "entities": {
+      "regulation_type": "Safety",
+      "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0271",
+    "language": "Malayalam",
+    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
+    "label": "Safety Guidelines",
+    "summary": "Safety rule reminder for workers.",
+    "entities": {
+      "regulation_type": "Safety",
+      "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0124",
+    "language": "English",
+    "text": "Employee Arjun has been assigned ID EMP101 in HR system.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "employee_id": "EMP101"
+    }
+  },
+  {
+    "doc_id": "DOC0095",
+    "language": "English",
+    "text": "Invoice No: 3087, Vendor: Tech Solutions, Total: ₹45,000, Due: 15 Oct 2025",
+    "label": "Invoice",
+    "summary": "Invoice summary: payment due 15 Oct 2025.",
+    "entities": {
+      "invoice_number": "3087",
+      "vendor": "Tech Solutions",
+      "total_amount": "₹45,000,",
+      "due_date": "15 Oct 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0311",
+    "language": "English",
+    "text": "Notice: Office will remain closed on 01 Nov 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_date": "01 Nov 2025",
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0480",
+    "language": "English",
+    "text": "Dear Meera, We acknowledge the receipt of your application dated 01 Nov 2025.",
+    "label": "General Letter",
+    "summary": "Acknowledgement or response letter.",
+    "entities": {
+      "recipient": "Meera",
+      "reference_date": "01 Nov 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0173",
+    "language": "English",
+    "text": "Employee Arjun has been assigned ID EMP101 in HR system.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "employee_id": "EMP101"
+    }
+  },
+  {
+    "doc_id": "DOC0195",
+    "language": "English",
+    "text": "HR Policy Update: All employees must submit leave forms by 10 Dec 2025.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "deadline": "10 Dec 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0381",
+    "language": "Malayalam",
+    "text": "സർക്കാർ ഉത്തരവ്: 10 Dec 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0364",
+    "language": "English",
+    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_date": "10 Dec 2025",
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0335",
     "language": "Malayalam",
     "text": "സർക്കാർ ഉത്തരവ്: 01 Nov 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
     "label": "Official Notice",
@@ -54,17 +206,72 @@
     }
   },
   {
-    "doc_id": "DOC0175",
+    "doc_id": "DOC0443",
     "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 25 Sept 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
+    "text": "Dear Arjun, We acknowledge the receipt of your application dated 15 Oct 2025.",
+    "label": "General Letter",
+    "summary": "Acknowledgement or response letter.",
     "entities": {
-      "deadline": "25 Sept 2025"
+      "recipient": "Arjun",
+      "reference_date": "15 Oct 2025"
     }
   },
   {
-    "doc_id": "DOC0193",
+    "doc_id": "DOC0127",
+    "language": "English",
+    "text": "Employee Arjun has been assigned ID EMP202 in HR system.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "employee_id": "EMP202"
+    }
+  },
+  {
+    "doc_id": "DOC0221",
+    "language": "Malayalam",
+    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
+    "label": "Safety Guidelines",
+    "summary": "Safety rule reminder for workers.",
+    "entities": {
+      "regulation_type": "Safety",
+      "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0005",
+    "language": "English",
+    "text": "Payment invoice 4546 issued to XYZ Corp, amount due ₹45,000, deadline 25 Sept 2025",
+    "label": "Invoice",
+    "summary": "Invoice summary with vendor and total amount.",
+    "entities": {
+      "invoice_number": "4546",
+      "total_amount": "₹45,000,"
+    }
+  },
+  {
+    "doc_id": "DOC0236",
+    "language": "English",
+    "text": "Workers must wear helmets at all times inside the site.",
+    "label": "Safety Guidelines",
+    "summary": "Safety rule reminder for workers.",
+    "entities": {
+      "regulation_type": "Safety",
+      "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0207",
+    "language": "English",
+    "text": "Workers must wear helmets at all times inside the site.",
+    "label": "Safety Guidelines",
+    "summary": "Safety rule reminder for workers.",
+    "entities": {
+      "regulation_type": "Safety",
+      "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0126",
     "language": "English",
     "text": "HR Policy Update: All employees must submit leave forms by 01 Nov 2025.",
     "label": "HR Document",
@@ -74,9 +281,125 @@
     }
   },
   {
-    "doc_id": "DOC0268",
+    "doc_id": "DOC0340",
+    "language": "English",
+    "text": "Notice: Office will remain closed on 01 Nov 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_date": "01 Nov 2025",
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0307",
+    "language": "English",
+    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_date": "10 Dec 2025",
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0445",
     "language": "Mixed",
-    "text": "Workers must wear helmets at all times inside the site.",
+    "text": "Dear Anita, We acknowledge the receipt of your application dated 10 Dec 2025.",
+    "label": "General Letter",
+    "summary": "Acknowledgement or response letter.",
+    "entities": {
+      "recipient": "Anita",
+      "reference_date": "10 Dec 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0217",
+    "language": "Malayalam",
+    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
+    "label": "Safety Guidelines",
+    "summary": "Safety rule reminder for workers.",
+    "entities": {
+      "regulation_type": "Safety",
+      "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0398",
+    "language": "Mixed",
+    "text": "Notice: Office will remain closed on 01 Nov 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_date": "01 Nov 2025",
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0469",
+    "language": "Malayalam",
+    "text": "പ്രിയ Anita, നിങ്ങളുടെ അപേക്ഷ 15 Oct 2025 ന് ലഭിച്ചു.",
+    "label": "General Letter",
+    "summary": "Acknowledgement or response letter.",
+    "entities": {}
+  },
+  {
+    "doc_id": "DOC0365",
+    "language": "Malayalam",
+    "text": "സർക്കാർ ഉത്തരവ്: 25 Sept 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0032",
+    "language": "English",
+    "text": "Invoice No: 1156, Vendor: Tech Solutions, Total: ₹1,20,000, Due: 15 Oct 2025",
+    "label": "Invoice",
+    "summary": "Invoice summary: payment due 15 Oct 2025.",
+    "entities": {
+      "invoice_number": "1156",
+      "vendor": "Tech Solutions",
+      "total_amount": "₹1,20,000,",
+      "due_date": "15 Oct 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0333",
+    "language": "English",
+    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_date": "10 Dec 2025",
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0259",
+    "language": "Malayalam",
+    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
+    "label": "Safety Guidelines",
+    "summary": "Safety rule reminder for workers.",
+    "entities": {
+      "regulation_type": "Safety",
+      "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0457",
+    "language": "Malayalam",
+    "text": "പ്രിയ Joseph, നിങ്ങളുടെ അപേക്ഷ 25 Sept 2025 ന് ലഭിച്ചു.",
+    "label": "General Letter",
+    "summary": "Acknowledgement or response letter.",
+    "entities": {}
+  },
+  {
+    "doc_id": "DOC0258",
+    "language": "Malayalam",
+    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
     "label": "Safety Guidelines",
     "summary": "Safety rule reminder for workers.",
     "entities": {
@@ -111,114 +434,28 @@
     }
   },
   {
-    "doc_id": "DOC0336",
+    "doc_id": "DOC0454",
     "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 01 Nov 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0487",
-    "language": "Malayalam",
-    "text": "പ്രിയ Anita, നിങ്ങളുടെ അപേക്ഷ 01 Nov 2025 ന് ലഭിച്ചു.",
+    "text": "പ്രിയ Meera, നിങ്ങളുടെ അപേക്ഷ 25 Sept 2025 ന് ലഭിച്ചു.",
     "label": "General Letter",
     "summary": "Acknowledgement or response letter.",
     "entities": {}
   },
   {
-    "doc_id": "DOC0020",
+    "doc_id": "DOC0061",
     "language": "English",
-    "text": "Invoice No: 5928, Vendor: XYZ Corp, Total: ₹12,500, Due: 01 Nov 2025",
+    "text": "Payment invoice 6237 issued to Tech Solutions, amount due ₹1,20,000, deadline 15 Oct 2025",
     "label": "Invoice",
-    "summary": "Invoice summary: payment due 01 Nov 2025.",
+    "summary": "Invoice summary with vendor and total amount.",
     "entities": {
-      "invoice_number": "5928",
-      "vendor": "XYZ Corp",
-      "total_amount": "₹12,500,",
-      "due_date": "01 Nov 2025"
+      "invoice_number": "6237",
+      "total_amount": "₹1,20,000,"
     }
   },
   {
-    "doc_id": "DOC0059",
-    "language": "English",
-    "text": "Invoice No: 9027, Vendor: XYZ Corp, Total: ₹12,500, Due: 01 Nov 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary: payment due 01 Nov 2025.",
-    "entities": {
-      "invoice_number": "9027",
-      "vendor": "XYZ Corp",
-      "total_amount": "₹12,500,",
-      "due_date": "01 Nov 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0465",
+    "doc_id": "DOC0346",
     "language": "Malayalam",
-    "text": "പ്രിയ Arjun, നിങ്ങളുടെ അപേക്ഷ 10 Dec 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0294",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0445",
-    "language": "Mixed",
-    "text": "Dear Anita, We acknowledge the receipt of your application dated 10 Dec 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Anita",
-      "reference_date": "10 Dec 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0328",
-    "language": "English",
-    "text": "Notice: Office will remain closed on 25 Sept 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "25 Sept 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0131",
-    "language": "English",
-    "text": "Employee Anita has been assigned ID EMP202 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP202"
-    }
-  },
-  {
-    "doc_id": "DOC0117",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 01 Nov 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "01 Nov 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0377",
-    "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 01 Nov 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
+    "text": "സർക്കാർ ഉത്തരവ്: 15 Oct 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
     "label": "Official Notice",
     "summary": "Official announcement regarding schedule or holiday.",
     "entities": {
@@ -226,24 +463,13 @@
     }
   },
   {
-    "doc_id": "DOC0339",
+    "doc_id": "DOC0104",
     "language": "English",
-    "text": "Notice: Office will remain closed on 25 Sept 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "25 Sept 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0178",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 01 Nov 2025.",
+    "text": "HR Policy Update: All employees must submit leave forms by 10 Dec 2025.",
     "label": "HR Document",
     "summary": "HR update about leave, employee ID, or policy.",
     "entities": {
-      "deadline": "01 Nov 2025"
+      "deadline": "10 Dec 2025"
     }
   },
   {
@@ -255,62 +481,15 @@
     "entities": {}
   },
   {
-    "doc_id": "DOC0345",
+    "doc_id": "DOC0458",
     "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 01 Nov 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0499",
-    "language": "English",
-    "text": "Dear Joseph, We acknowledge the receipt of your application dated 25 Sept 2025.",
+    "text": "പ്രിയ Ravi, നിങ്ങളുടെ അപേക്ഷ 01 Nov 2025 ന് ലഭിച്ചു.",
     "label": "General Letter",
     "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Joseph",
-      "reference_date": "25 Sept 2025"
-    }
+    "entities": {}
   },
   {
-    "doc_id": "DOC0274",
-    "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0100",
-    "language": "English",
-    "text": "Invoice No: 4737, Vendor: Metro Constructions, Total: ₹45,000, Due: 25 Sept 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary: payment due 25 Sept 2025.",
-    "entities": {
-      "invoice_number": "4737",
-      "vendor": "Metro Constructions",
-      "total_amount": "₹45,000,",
-      "due_date": "25 Sept 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0161",
-    "language": "English",
-    "text": "Employee Meera has been assigned ID EMP101 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP101"
-    }
-  },
-  {
-    "doc_id": "DOC0313",
+    "doc_id": "DOC0386",
     "language": "Malayalam",
     "text": "സർക്കാർ ഉത്തരവ്: 15 Oct 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
     "label": "Official Notice",
@@ -320,133 +499,46 @@
     }
   },
   {
-    "doc_id": "DOC0011",
+    "doc_id": "DOC0129",
     "language": "English",
-    "text": "Invoice No: 5073, Vendor: XYZ Corp, Total: ₹45,000, Due: 15 Oct 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary: payment due 15 Oct 2025.",
+    "text": "HR Policy Update: All employees must submit leave forms by 25 Sept 2025.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
     "entities": {
-      "invoice_number": "5073",
-      "vendor": "XYZ Corp",
-      "total_amount": "₹45,000,",
-      "due_date": "15 Oct 2025"
+      "deadline": "25 Sept 2025"
     }
   },
   {
-    "doc_id": "DOC0382",
+    "doc_id": "DOC0373",
     "language": "English",
-    "text": "Notice: Office will remain closed on 25 Sept 2025 for public holiday.",
+    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
     "label": "Official Notice",
     "summary": "Official announcement regarding schedule or holiday.",
     "entities": {
-      "notice_date": "25 Sept 2025",
+      "notice_date": "10 Dec 2025",
       "notice_type": "Holiday/Schedule"
     }
   },
   {
-    "doc_id": "DOC0293",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0394",
-    "language": "English",
-    "text": "Notice: Office will remain closed on 15 Oct 2025 for public holiday.",
+    "doc_id": "DOC0330",
+    "language": "Mixed",
+    "text": "Notice: Office will remain closed on 01 Nov 2025 for public holiday.",
     "label": "Official Notice",
     "summary": "Official announcement regarding schedule or holiday.",
     "entities": {
-      "notice_date": "15 Oct 2025",
+      "notice_date": "01 Nov 2025",
       "notice_type": "Holiday/Schedule"
     }
   },
   {
-    "doc_id": "DOC0185",
-    "language": "English",
-    "text": "Employee Meera has been assigned ID EMP404 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP404"
-    }
-  },
-  {
-    "doc_id": "DOC0170",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 15 Oct 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "15 Oct 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0138",
-    "language": "English",
-    "text": "Employee Ravi has been assigned ID EMP303 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP303"
-    }
-  },
-  {
-    "doc_id": "DOC0240",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0120",
-    "language": "English",
-    "text": "Employee Anita has been assigned ID EMP404 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP404"
-    }
-  },
-  {
-    "doc_id": "DOC0257",
-    "language": "English",
+    "doc_id": "DOC0228",
+    "language": "Mixed",
     "text": "Workers must wear helmets at all times inside the site.",
     "label": "Safety Guidelines",
     "summary": "Safety rule reminder for workers.",
     "entities": {
       "regulation_type": "Safety",
       "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0064",
-    "language": "English",
-    "text": "Payment invoice 9267 issued to XYZ Corp, amount due ₹45,000, deadline 01 Nov 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary with vendor and total amount.",
-    "entities": {
-      "invoice_number": "9267",
-      "total_amount": "₹45,000,"
-    }
-  },
-  {
-    "doc_id": "DOC0070",
-    "language": "English",
-    "text": "Payment invoice 8003 issued to Metro Constructions, amount due ₹8,750, deadline 25 Sept 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary with vendor and total amount.",
-    "entities": {
-      "invoice_number": "8003",
-      "total_amount": "₹8,750,"
     }
   },
   {
@@ -460,7 +552,7 @@
     }
   },
   {
-    "doc_id": "DOC0427",
+    "doc_id": "DOC0476",
     "language": "Malayalam",
     "text": "പ്രിയ Anita, നിങ്ങളുടെ അപേക്ഷ 10 Dec 2025 ന് ലഭിച്ചു.",
     "label": "General Letter",
@@ -468,52 +560,9 @@
     "entities": {}
   },
   {
-    "doc_id": "DOC0167",
+    "doc_id": "DOC0224",
     "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 10 Dec 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "10 Dec 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0137",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 01 Nov 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "01 Nov 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0191",
-    "language": "Mixed",
-    "text": "HR Policy Update: All employees must submit leave forms by 10 Dec 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "10 Dec 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0022",
-    "language": "English",
-    "text": "Invoice No: 7448, Vendor: Metro Constructions, Total: ₹45,000, Due: 10 Dec 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary: payment due 10 Dec 2025.",
-    "entities": {
-      "invoice_number": "7448",
-      "vendor": "Metro Constructions",
-      "total_amount": "₹45,000,",
-      "due_date": "10 Dec 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0221",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
+    "text": "Workers must wear helmets at all times inside the site.",
     "label": "Safety Guidelines",
     "summary": "Safety rule reminder for workers.",
     "entities": {
@@ -522,7 +571,7 @@
     }
   },
   {
-    "doc_id": "DOC0183",
+    "doc_id": "DOC0112",
     "language": "English",
     "text": "HR Policy Update: All employees must submit leave forms by 15 Oct 2025.",
     "label": "HR Document",
@@ -532,55 +581,24 @@
     }
   },
   {
-    "doc_id": "DOC0408",
+    "doc_id": "DOC0300",
     "language": "English",
-    "text": "Dear Arjun, We acknowledge the receipt of your application dated 10 Dec 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Arjun",
-      "reference_date": "10 Dec 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0484",
-    "language": "English",
-    "text": "Dear Ravi, We acknowledge the receipt of your application dated 10 Dec 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Ravi",
-      "reference_date": "10 Dec 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0481",
-    "language": "Malayalam",
-    "text": "പ്രിയ Joseph, നിങ്ങളുടെ അപേക്ഷ 15 Oct 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0405",
-    "language": "Mixed",
-    "text": "Dear Anita, We acknowledge the receipt of your application dated 15 Oct 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Anita",
-      "reference_date": "15 Oct 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0271",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
+    "text": "Workers must wear helmets at all times inside the site.",
     "label": "Safety Guidelines",
     "summary": "Safety rule reminder for workers.",
     "entities": {
       "regulation_type": "Safety",
       "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0150",
+    "language": "English",
+    "text": "Employee Arjun has been assigned ID EMP101 in HR system.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "employee_id": "EMP101"
     }
   },
   {
@@ -597,134 +615,7 @@
     }
   },
   {
-    "doc_id": "DOC0433",
-    "language": "English",
-    "text": "Dear Ravi, We acknowledge the receipt of your application dated 15 Oct 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Ravi",
-      "reference_date": "15 Oct 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0149",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 10 Dec 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "10 Dec 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0447",
-    "language": "English",
-    "text": "Dear Arjun, We acknowledge the receipt of your application dated 25 Sept 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Arjun",
-      "reference_date": "25 Sept 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0315",
-    "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 25 Sept 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0198",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 25 Sept 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "25 Sept 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0276",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0330",
-    "language": "Mixed",
-    "text": "Notice: Office will remain closed on 01 Nov 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "01 Nov 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0392",
-    "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 15 Oct 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0396",
-    "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 10 Dec 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0134",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 25 Sept 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "25 Sept 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0113",
-    "language": "English",
-    "text": "Employee Arjun has been assigned ID EMP101 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP101"
-    }
-  },
-  {
-    "doc_id": "DOC0031",
-    "language": "English",
-    "text": "Invoice No: 5056, Vendor: Metro Constructions, Total: ₹1,20,000, Due: 15 Oct 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary: payment due 15 Oct 2025.",
-    "entities": {
-      "invoice_number": "5056",
-      "vendor": "Metro Constructions",
-      "total_amount": "₹1,20,000,",
-      "due_date": "15 Oct 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0285",
+    "doc_id": "DOC0203",
     "language": "English",
     "text": "Workers must wear helmets at all times inside the site.",
     "label": "Safety Guidelines",
@@ -735,13 +626,125 @@
     }
   },
   {
-    "doc_id": "DOC0121",
+    "doc_id": "DOC0009",
+    "language": "Mixed",
+    "text": "Payment invoice 3341 issued to ABC Pvt Ltd, amount due ₹1,20,000, deadline 10 Dec 2025",
+    "label": "Invoice",
+    "summary": "Invoice summary with vendor and total amount.",
+    "entities": {
+      "invoice_number": "3341",
+      "total_amount": "₹1,20,000,"
+    }
+  },
+  {
+    "doc_id": "DOC0102",
     "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 15 Oct 2025.",
+    "text": "Employee Anita has been assigned ID EMP404 in HR system.",
     "label": "HR Document",
     "summary": "HR update about leave, employee ID, or policy.",
     "entities": {
-      "deadline": "15 Oct 2025"
+      "employee_id": "EMP404"
+    }
+  },
+  {
+    "doc_id": "DOC0132",
+    "language": "English",
+    "text": "Employee Arjun has been assigned ID EMP404 in HR system.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "employee_id": "EMP404"
+    }
+  },
+  {
+    "doc_id": "DOC0119",
+    "language": "English",
+    "text": "Employee Anita has been assigned ID EMP101 in HR system.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "employee_id": "EMP101"
+    }
+  },
+  {
+    "doc_id": "DOC0151",
+    "language": "English",
+    "text": "HR Policy Update: All employees must submit leave forms by 01 Nov 2025.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "deadline": "01 Nov 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0239",
+    "language": "English",
+    "text": "Workers must wear helmets at all times inside the site.",
+    "label": "Safety Guidelines",
+    "summary": "Safety rule reminder for workers.",
+    "entities": {
+      "regulation_type": "Safety",
+      "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0425",
+    "language": "Malayalam",
+    "text": "പ്രിയ Meera, നിങ്ങളുടെ അപേക്ഷ 25 Sept 2025 ന് ലഭിച്ചു.",
+    "label": "General Letter",
+    "summary": "Acknowledgement or response letter.",
+    "entities": {}
+  },
+  {
+    "doc_id": "DOC0429",
+    "language": "Mixed",
+    "text": "Dear Meera, We acknowledge the receipt of your application dated 15 Oct 2025.",
+    "label": "General Letter",
+    "summary": "Acknowledgement or response letter.",
+    "entities": {
+      "recipient": "Meera",
+      "reference_date": "15 Oct 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0336",
+    "language": "Malayalam",
+    "text": "സർക്കാർ ഉത്തരവ്: 01 Nov 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0478",
+    "language": "English",
+    "text": "Dear Ravi, We acknowledge the receipt of your application dated 15 Oct 2025.",
+    "label": "General Letter",
+    "summary": "Acknowledgement or response letter.",
+    "entities": {
+      "recipient": "Ravi",
+      "reference_date": "15 Oct 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0168",
+    "language": "English",
+    "text": "Employee Ravi has been assigned ID EMP404 in HR system.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "employee_id": "EMP404"
+    }
+  },
+  {
+    "doc_id": "DOC0144",
+    "language": "English",
+    "text": "Employee Joseph has been assigned ID EMP101 in HR system.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "employee_id": "EMP101"
     }
   },
   {
@@ -756,100 +759,16 @@
     }
   },
   {
-    "doc_id": "DOC0069",
+    "doc_id": "DOC0008",
     "language": "English",
-    "text": "Payment invoice 2986 issued to XYZ Corp, amount due ₹45,000, deadline 01 Nov 2025",
+    "text": "Invoice No: 6963, Vendor: XYZ Corp, Total: ₹12,500, Due: 10 Dec 2025",
     "label": "Invoice",
-    "summary": "Invoice summary with vendor and total amount.",
+    "summary": "Invoice summary: payment due 10 Dec 2025.",
     "entities": {
-      "invoice_number": "2986",
-      "total_amount": "₹45,000,"
-    }
-  },
-  {
-    "doc_id": "DOC0112",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 15 Oct 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "15 Oct 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0235",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0496",
-    "language": "English",
-    "text": "Dear Ravi, We acknowledge the receipt of your application dated 01 Nov 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Ravi",
-      "reference_date": "01 Nov 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0443",
-    "language": "English",
-    "text": "Dear Arjun, We acknowledge the receipt of your application dated 15 Oct 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Arjun",
-      "reference_date": "15 Oct 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0042",
-    "language": "English",
-    "text": "Payment invoice 4013 issued to Tech Solutions, amount due ₹45,000, deadline 01 Nov 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary with vendor and total amount.",
-    "entities": {
-      "invoice_number": "4013",
-      "total_amount": "₹45,000,"
-    }
-  },
-  {
-    "doc_id": "DOC0410",
-    "language": "English",
-    "text": "Dear Ravi, We acknowledge the receipt of your application dated 15 Oct 2025.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {
-      "recipient": "Ravi",
-      "reference_date": "15 Oct 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0163",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 15 Oct 2025.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "deadline": "15 Oct 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0282",
-    "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
+      "invoice_number": "6963",
+      "vendor": "XYZ Corp",
+      "total_amount": "₹12,500,",
+      "due_date": "10 Dec 2025"
     }
   },
   {
@@ -864,48 +783,13 @@
     }
   },
   {
-    "doc_id": "DOC0207",
-    "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
+    "doc_id": "DOC0302",
+    "language": "Malayalam",
+    "text": "സർക്കാർ ഉത്തരവ്: 25 Sept 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
     "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0003",
-    "language": "English",
-    "text": "Invoice No: 5326, Vendor: ABC Pvt Ltd, Total: ₹45,000, Due: 25 Sept 2025",
-    "label": "Invoice",
-    "summary": "Invoice summary: payment due 25 Sept 2025.",
-    "entities": {
-      "invoice_number": "5326",
-      "vendor": "ABC Pvt Ltd",
-      "total_amount": "₹45,000,",
-      "due_date": "25 Sept 2025"
-    }
-  },
-  {
-    "doc_id": "DOC0222",
-    "language": "English",
-    "text": "Workers must wear helmets at all times inside the site.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0102",
-    "language": "English",
-    "text": "Employee Anita has been assigned ID EMP404 in HR system.",
-    "label": "HR Document",
-    "summary": "HR update about leave, employee ID, or policy.",
-    "entities": {
-      "employee_id": "EMP404"
+      "notice_type": "Holiday/Schedule"
     }
   },
   {
@@ -919,123 +803,88 @@
     }
   },
   {
-    "doc_id": "DOC0497",
-    "language": "Malayalam",
-    "text": "പ്രിയ Anita, നിങ്ങളുടെ അപേക്ഷ 10 Dec 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0395",
+    "doc_id": "DOC0108",
     "language": "English",
-    "text": "Notice: Office will remain closed on 01 Nov 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_date": "01 Nov 2025",
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0181",
-    "language": "English",
-    "text": "HR Policy Update: All employees must submit leave forms by 01 Nov 2025.",
+    "text": "Employee Meera has been assigned ID EMP101 in HR system.",
     "label": "HR Document",
     "summary": "HR update about leave, employee ID, or policy.",
     "entities": {
-      "deadline": "01 Nov 2025"
+      "employee_id": "EMP101"
     }
   },
   {
-    "doc_id": "DOC0477",
-    "language": "Malayalam",
-    "text": "പ്രിയ Ravi, നിങ്ങളുടെ അപേക്ഷ 01 Nov 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0458",
-    "language": "Malayalam",
-    "text": "പ്രിയ Ravi, നിങ്ങളുടെ അപേക്ഷ 01 Nov 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0419",
-    "language": "Malayalam",
-    "text": "പ്രിയ Joseph, നിങ്ങളുടെ അപേക്ഷ 15 Oct 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0114",
+    "doc_id": "DOC0006",
     "language": "English",
-    "text": "Employee Arjun has been assigned ID EMP303 in HR system.",
+    "text": "Payment invoice 2657 issued to XYZ Corp, amount due ₹45,000, deadline 01 Nov 2025",
+    "label": "Invoice",
+    "summary": "Invoice summary with vendor and total amount.",
+    "entities": {
+      "invoice_number": "2657",
+      "total_amount": "₹45,000,"
+    }
+  },
+  {
+    "doc_id": "DOC0052",
+    "language": "Mixed",
+    "text": "Invoice No: 9298, Vendor: Metro Constructions, Total: ₹12,500, Due: 10 Dec 2025",
+    "label": "Invoice",
+    "summary": "Invoice summary: payment due 10 Dec 2025.",
+    "entities": {
+      "invoice_number": "9298",
+      "vendor": "Metro Constructions",
+      "total_amount": "₹12,500,",
+      "due_date": "10 Dec 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0110",
+    "language": "English",
+    "text": "HR Policy Update: All employees must submit leave forms by 25 Sept 2025.",
     "label": "HR Document",
     "summary": "HR update about leave, employee ID, or policy.",
     "entities": {
-      "employee_id": "EMP303"
+      "deadline": "25 Sept 2025"
     }
   },
   {
-    "doc_id": "DOC0307",
+    "doc_id": "DOC0027",
     "language": "English",
-    "text": "Notice: Office will remain closed on 10 Dec 2025 for public holiday.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
+    "text": "Invoice No: 6647, Vendor: XYZ Corp, Total: ₹12,500, Due: 01 Nov 2025",
+    "label": "Invoice",
+    "summary": "Invoice summary: payment due 01 Nov 2025.",
     "entities": {
-      "notice_date": "10 Dec 2025",
-      "notice_type": "Holiday/Schedule"
+      "invoice_number": "6647",
+      "vendor": "XYZ Corp",
+      "total_amount": "₹12,500,",
+      "due_date": "01 Nov 2025"
     }
   },
   {
-    "doc_id": "DOC0343",
-    "language": "Malayalam",
-    "text": "സർക്കാർ ഉത്തരവ്: 10 Dec 2025 മുതൽ പുതിയ സമയക്രമം നടപ്പാക്കും.",
-    "label": "Official Notice",
-    "summary": "Official announcement regarding schedule or holiday.",
-    "entities": {
-      "notice_type": "Holiday/Schedule"
-    }
-  },
-  {
-    "doc_id": "DOC0258",
-    "language": "Malayalam",
-    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
-    "label": "Safety Guidelines",
-    "summary": "Safety rule reminder for workers.",
-    "entities": {
-      "regulation_type": "Safety",
-      "requirement": "Wear helmet"
-    }
-  },
-  {
-    "doc_id": "DOC0460",
-    "language": "Malayalam",
-    "text": "പ്രിയ Ravi, നിങ്ങളുടെ അപേക്ഷ 01 Nov 2025 ന് ലഭിച്ചു.",
-    "label": "General Letter",
-    "summary": "Acknowledgement or response letter.",
-    "entities": {}
-  },
-  {
-    "doc_id": "DOC0007",
-    "language": "English",
-    "text": "Invoice No: 3188, Vendor: XYZ Corp, Total: ₹12,500, Due: 25 Sept 2025",
+    "doc_id": "DOC0033",
+    "language": "Mixed",
+    "text": "Invoice No: 7214, Vendor: Metro Constructions, Total: ₹12,500, Due: 25 Sept 2025",
     "label": "Invoice",
     "summary": "Invoice summary: payment due 25 Sept 2025.",
     "entities": {
-      "invoice_number": "3188",
-      "vendor": "XYZ Corp",
+      "invoice_number": "7214",
+      "vendor": "Metro Constructions",
       "total_amount": "₹12,500,",
       "due_date": "25 Sept 2025"
     }
   },
   {
-    "doc_id": "DOC0206",
+    "doc_id": "DOC0428",
+    "language": "English",
+    "text": "Dear Meera, We acknowledge the receipt of your application dated 10 Dec 2025.",
+    "label": "General Letter",
+    "summary": "Acknowledgement or response letter.",
+    "entities": {
+      "recipient": "Meera",
+      "reference_date": "10 Dec 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0227",
     "language": "English",
     "text": "Workers must wear helmets at all times inside the site.",
     "label": "Safety Guidelines",
@@ -1046,13 +895,175 @@
     }
   },
   {
-    "doc_id": "DOC0108",
+    "doc_id": "DOC0164",
+    "language": "English",
+    "text": "Employee Ravi has been assigned ID EMP202 in HR system.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "employee_id": "EMP202"
+    }
+  },
+  {
+    "doc_id": "DOC0357",
+    "language": "English",
+    "text": "Notice: Office will remain closed on 15 Oct 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_date": "15 Oct 2025",
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0446",
+    "language": "Mixed",
+    "text": "Dear Joseph, We acknowledge the receipt of your application dated 01 Nov 2025.",
+    "label": "General Letter",
+    "summary": "Acknowledgement or response letter.",
+    "entities": {
+      "recipient": "Joseph",
+      "reference_date": "01 Nov 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0212",
+    "language": "Malayalam",
+    "text": "സുരക്ഷാ നിയമങ്ങൾ അനുസരിച്ച് തൊഴിലാളികൾ ഹെൽമെറ്റ് ധരിക്കണം.",
+    "label": "Safety Guidelines",
+    "summary": "Safety rule reminder for workers.",
+    "entities": {
+      "regulation_type": "Safety",
+      "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0066",
+    "language": "English",
+    "text": "Payment invoice 4990 issued to Metro Constructions, amount due ₹1,20,000, deadline 01 Nov 2025",
+    "label": "Invoice",
+    "summary": "Invoice summary with vendor and total amount.",
+    "entities": {
+      "invoice_number": "4990",
+      "total_amount": "₹1,20,000,"
+    }
+  },
+  {
+    "doc_id": "DOC0115",
     "language": "English",
     "text": "Employee Meera has been assigned ID EMP101 in HR system.",
     "label": "HR Document",
     "summary": "HR update about leave, employee ID, or policy.",
     "entities": {
       "employee_id": "EMP101"
+    }
+  },
+  {
+    "doc_id": "DOC0303",
+    "language": "English",
+    "text": "Notice: Office will remain closed on 15 Oct 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_date": "15 Oct 2025",
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0456",
+    "language": "Malayalam",
+    "text": "പ്രിയ Anita, നിങ്ങളുടെ അപേക്ഷ 15 Oct 2025 ന് ലഭിച്ചു.",
+    "label": "General Letter",
+    "summary": "Acknowledgement or response letter.",
+    "entities": {}
+  },
+  {
+    "doc_id": "DOC0152",
+    "language": "English",
+    "text": "HR Policy Update: All employees must submit leave forms by 10 Dec 2025.",
+    "label": "HR Document",
+    "summary": "HR update about leave, employee ID, or policy.",
+    "entities": {
+      "deadline": "10 Dec 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0018",
+    "language": "English",
+    "text": "Payment invoice 1050 issued to ABC Pvt Ltd, amount due ₹12,500, deadline 15 Oct 2025",
+    "label": "Invoice",
+    "summary": "Invoice summary with vendor and total amount.",
+    "entities": {
+      "invoice_number": "1050",
+      "total_amount": "₹12,500,"
+    }
+  },
+  {
+    "doc_id": "DOC0220",
+    "language": "Mixed",
+    "text": "Workers must wear helmets at all times inside the site.",
+    "label": "Safety Guidelines",
+    "summary": "Safety rule reminder for workers.",
+    "entities": {
+      "regulation_type": "Safety",
+      "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0273",
+    "language": "English",
+    "text": "Workers must wear helmets at all times inside the site.",
+    "label": "Safety Guidelines",
+    "summary": "Safety rule reminder for workers.",
+    "entities": {
+      "regulation_type": "Safety",
+      "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0380",
+    "language": "English",
+    "text": "Notice: Office will remain closed on 25 Sept 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_date": "25 Sept 2025",
+      "notice_type": "Holiday/Schedule"
+    }
+  },
+  {
+    "doc_id": "DOC0038",
+    "language": "English",
+    "text": "Invoice No: 7272, Vendor: XYZ Corp, Total: ₹45,000, Due: 01 Nov 2025",
+    "label": "Invoice",
+    "summary": "Invoice summary: payment due 01 Nov 2025.",
+    "entities": {
+      "invoice_number": "7272",
+      "vendor": "XYZ Corp",
+      "total_amount": "₹45,000,",
+      "due_date": "01 Nov 2025"
+    }
+  },
+  {
+    "doc_id": "DOC0282",
+    "language": "English",
+    "text": "Workers must wear helmets at all times inside the site.",
+    "label": "Safety Guidelines",
+    "summary": "Safety rule reminder for workers.",
+    "entities": {
+      "regulation_type": "Safety",
+      "requirement": "Wear helmet"
+    }
+  },
+  {
+    "doc_id": "DOC0319",
+    "language": "Mixed",
+    "text": "Notice: Office will remain closed on 25 Sept 2025 for public holiday.",
+    "label": "Official Notice",
+    "summary": "Official announcement regarding schedule or holiday.",
+    "entities": {
+      "notice_date": "25 Sept 2025",
+      "notice_type": "Holiday/Schedule"
     }
   }
 ]
