@@ -1,0 +1,55 @@
+Invoice/JobCard ID:
+  - JobCard-567
+  - JobCard-567
+  - JobCard-568
+
+Date:
+  - 20/09/2025
+  - 15/09/2025
+  - 20/09/2025
+  - 15/09/2025
+  - 18/09/2025
+  - 31/12/2025
+
+Amount:
+  - None
+
+Email:
+  - supplier@kmrt.in
+  - supplier@kmrt.in
+  - contact@metroengg.com
+
+Phone:
+  - +91-9876543210
+  - +91-9876543210
+  - +91-9123456780
+
+GST/Tax:
+  - 32ABCDE1234F1Z5
+  - 32ABCDE1234F1Z5
+  - 27XYZAB1234K1Z7
+
+Fitness Certificate Status:
+  - valid
+  - valid
+
+Job Card Status:
+  - completed
+
+Branding/Vendor:
+  - Kerala Metro Contractors Pvt Ltd
+  - s Pvt Ltd
+
+Train/Coach Number:
+  - KMRT-01
+  - is
+  - KMRT-Coach-005
+  - 005
+  - 006
+
+Expiry Dates:
+  - None
+
+Address/Location:
+  - None
+
